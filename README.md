@@ -60,6 +60,12 @@ Case 001 now includes a dedicated cross-intelligence branch mapping institutiona
 - [Foreign Intelligence Traces](cases/8200/cross-intelligence/foreign-intelligence-traces.md)
 - [Attribution Conflicts](cases/8200/cross-intelligence/attribution-conflicts.md)
 - [Cross-Intelligence Source Register](cases/8200/cross-intelligence/sources.md)
+- [Global Bridge Map](cases/8200/cross-intelligence/global-bridge-map.md)
+- [Infrastructure Bridges](cases/8200/cross-intelligence/infrastructure-bridges.md)
+- [Career-Path Fingerprint](cases/8200/career-path-fingerprint.md)
+- [Mission Evolution](cases/8200/mission-evolution.md)
+- [Succession Map](cases/8200/succession-map.md)
+- [Institutional Architecture](cases/8200/institutional-architecture.md)
 
 ## Research principles
 
