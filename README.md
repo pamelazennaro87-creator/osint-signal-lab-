@@ -51,6 +51,16 @@ The laboratory therefore models the connection as an **unresolved continuity hyp
 - [False Matches](cases/8200/FALSE_MATCHES.md)
 - [Evidence Register](cases/8200/evidence/sources.md)
 
+## Cross-Intelligence Trace
+
+Case 001 now includes a dedicated cross-intelligence branch mapping institutional bridges around 8200 while keeping person-level attribution separate.
+
+- [Cross-Intelligence Overview](cases/8200/cross-intelligence/README.md)
+- [Institutional Intelligence Bridges](cases/8200/cross-intelligence/institutional-links.md)
+- [Foreign Intelligence Traces](cases/8200/cross-intelligence/foreign-intelligence-traces.md)
+- [Attribution Conflicts](cases/8200/cross-intelligence/attribution-conflicts.md)
+- [Cross-Intelligence Source Register](cases/8200/cross-intelligence/sources.md)
+
 ## Research principles
 
 ### Evidence before narrative
