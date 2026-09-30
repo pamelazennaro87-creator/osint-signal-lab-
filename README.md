@@ -42,6 +42,11 @@ The laboratory therefore models the connection as an **unresolved continuity hyp
 
 - [Methodology](methods/methodology.md)
 - [Case Study](cases/8200/case-study.md)
+- [Timeline](cases/8200/timeline.md)
+- [Public Hierarchy Model](cases/8200/hierarchy.md)
+- [Selection & Training Pathways](cases/8200/selection-pipeline.md)
+- [Appointment Clusters](cases/8200/appointment-clusters.md)
+- [Source Genealogy](cases/8200/source-genealogy.md)
 - [Attribution Boundary](cases/8200/attribution-boundary.md)
 - [False Matches](cases/8200/FALSE_MATCHES.md)
 - [Evidence Register](cases/8200/evidence/sources.md)
