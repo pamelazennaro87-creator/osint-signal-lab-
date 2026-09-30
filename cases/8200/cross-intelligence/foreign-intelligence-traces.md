@@ -1,44 +1,43 @@
 # Foreign Intelligence Traces
 
-## Search objective
+## Research objective
 
-Identify public evidence connecting H׳ or other officers in the 2025 Aman appointment cluster with foreign intelligence liaison, attaché assignments, or documented cooperation.
+Trace publicly documented liaison, attaché, foreign-intelligence and inter-agency pathways around the 2025 Aman appointment cluster without converting institutional evidence into personal attribution.
 
-## Current findings
+## New structural finding: Washington is a role, not an identity shortcut
 
-The 31 March 2025 IDF appointment announcement places H׳'s 8200 appointment in the same appointment cycle as an intelligence attaché assigned to Washington.
+The 31 March 2025 IDF appointment announcement assigns an anonymized officer, ב׳, as intelligence attaché in Washington and promotes him to colonel. The same announcement assigns H׳ to deputy commander of 8200 and places ע׳, ג׳ and א׳ in other senior Aman roles. citeturn0search0
 
-Classification: **APPOINTMENT CLUSTER ONLY**.
+This creates a **documented appointment cluster**, not a documented personal network.
 
-The cluster does not establish that H׳ served in Washington or had a personal relationship with the appointee.
+A useful historical comparison is Brig. Gen. (res.) Yossi Kuperwasser: public institutional biographies document that he served as an intelligence attaché in Washington from 1992–1994, later as Central Command intelligence chief, and then as head of the Aman Research Division from 2001–2006. citeturn1search3turn1search0
 
-Public historical sources also document cooperation between Israeli SIGINT structures and US/UK intelligence organizations.
+This demonstrates that Washington intelligence liaison can be part of a broader Aman career trajectory. It does **not** establish that any member of the 2025 cluster followed the same path.
 
-Classification: **INSTITUTIONAL**.
+## Current person-level status
 
-## Person-level status
+H׳ → Washington: **UNRESOLVED**
 
-H׳ → NSA: UNRESOLVED
+H׳ → NSA: **UNRESOLVED**
 
-H׳ → CIA: UNRESOLVED
+H׳ → CIA: **UNRESOLVED**
 
-H׳ → GCHQ: UNRESOLVED
+H׳ → GCHQ: **UNRESOLVED**
 
-H׳ → Mossad: UNRESOLVED
+H׳ → Mossad: **UNRESOLVED**
 
-H׳ → Shin Bet: UNRESOLVED
+H׳ → Shin Bet: **UNRESOLVED**
 
-## Negative-evidence rule
+## Search-result rule
 
-“No direct public source located in the searched corpus” is not equivalent to “no relationship existed.”
+“No direct public source located in the searched corpus” means exactly that. It is not proof that the relationship never existed.
 
-## Next targets
+## Next investigation layer
 
-- prior assignments of the officers in the 2025 appointment cluster
-- predecessors and successors of relevant posts
-- official Aman appointment records
-- military attaché and liaison postings
-- archived Hebrew-language profiles
+- predecessors and successors of each 2025 post
+- archived IDF appointment announcements
+- foreign military attaché records
+- official biographies and conference profiles
 - declassified US/UK records
-- parliamentary and congressional records
-- source genealogy for every claimed bridge
+- source genealogy
+- designation collision testing
