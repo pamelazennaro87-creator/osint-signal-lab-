@@ -135,3 +135,32 @@ We must distinguish:
 5. messaging channel.
 
 The newly verified sources establish **2–4** in relevant cases. The printed-newspaper hypothesis remains unconfirmed and stays in the research queue.
+
+
+## Primary-source discipline
+
+This case uses a strict source hierarchy. Every material claim must retain its original source and evidentiary status.
+
+**Preferred order:** court judgment / indictment / prosecutor or police document → official parliamentary or institutional record → named investigative reporting → specialist analysis → derivative reporting.
+
+For every new fragment we record:
+- source title and issuing body;
+- publication/date;
+- direct URL;
+- whether the source is primary, secondary, or derivative;
+- what the source actually establishes;
+- what remains allegation, attribution, or unresolved;
+- whether another source is genuinely independent or merely repeats the same investigation.
+
+**Rule:** repeated URLs or repeated reporting from the same underlying investigation do not count as independent corroboration.
+
+### Current primary-source additions
+
+Case 004 now includes:
+- **DE-002:** Stuttgart judicial record, 18 Aug 2026;
+- **CH-001:** Swiss Federal Criminal Court extradition record, 16 Dec 2025;
+- **PL-002 / PL-004 / PL-005:** Polish prosecution records concerning differentiated roles, logistics test shipments and an unresolved external participant;
+- **UA-002:** Ukrainian SSU criminal-case record concerning recruitment of additional operatives;
+- **IT-002:** Italian ROS case retained as a control case, not merged into the disposable-agent network.
+
+The research model therefore tracks **source genealogy + evidentiary threshold + jurisdictional seams**, not merely media narratives.
