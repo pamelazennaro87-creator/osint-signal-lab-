@@ -364,3 +364,41 @@ The broader ecosystem may contain at least three reservoirs:
 At the same time, target selection may extend beyond logistics to defence-technology production.
 
 This does not establish one network connecting these reservoirs. It establishes a reason to stop modelling Case 004 as a single recruitment channel.
+
+
+### PL-006 — Starlink ground station: infrastructure-target divergence (23 Sep 2026)
+
+Poland's National Prosecutor opened an investigation into the 23 September 2026 fire at a Starlink satellite communications ground station in Wola Krobowska. The prosecutor states that the fire was caused by arson and that there are reasonable grounds to suspect the perpetrators acted on orders of Russian special services. The stated suspected objective was to disrupt Starlink traffic and internet connectivity in Poland and other Central and Eastern European countries. No suspect had been charged when the investigation was announced.
+
+Source: Polish National Prosecutor, 25 Sep 2026: https://www.gov.pl/web/prokuratura-krajowa/wszczecie-sledztwa-w-sprawie-pozaru-stacji-starlink-w-woli-krobowskiej
+
+Status: **F1/F2 emerging fragment**. The sabotage determination and Russian-service suspicion are official investigative positions; there is not yet a public judicial finding or identified perpetrator.
+
+Analytical divergence: the apparent target is not a parcel/logistics hub or defence factory but **satellite communications infrastructure**. This creates a new target family and a possible communications-dependency layer for the graph.
+
+Do not merge PL-006 with the parcel network or Milrem case without a direct evidentiary edge.
+
+### US-001 — same coordinator, different mission families (indictment, Sep 2026)
+
+A U.S. federal indictment unsealed 15 September 2026 alleges a Russian intelligence-services network involved in overseas attacks and attempted violence in the United States. The indictment names Oemis Romagoza Durruthy as an alleged coordinator who, according to prosecutors, arranged travel/logistics for the June 2024 Prague attack and a September 2024 Lithuania operation, while later participating in an alleged U.S.-based surveillance/murder plot. The indictment also describes Yaidel Delgado Suarez as an alleged recruiter of U.S.-based individuals.
+
+Source: U.S. Department of Justice, SDNY, 15 Sep 2026: https://www.justice.gov/usao-sdny/pr/members-russian-intelligence-services-network-charged-conspiring-finance-terrorism-and
+
+Status: **F3 within the indictment; F0 for linkage to PL-006**. This is an allegation, not a conviction.
+
+Analytical value: unlike a single-purpose disposable-agent narrative, the alleged network contains persistent coordinators/recruiters who appear across different mission families and jurisdictions: European sabotage + U.S. surveillance/targeted-violence planning. This supports the hypothesis of **persistent nodes above disposable execution layers**, but only within the alleged network described by the indictment.
+
+### Divergence update
+
+Case 004 now contains three target families that should remain analytically distinct:
+
+1. logistics / transport;
+2. defence-technology production;
+3. satellite communications infrastructure.
+
+And two role layers:
+
+- **disposable / low-level execution layer**;
+- **persistent coordinator / recruiter layer**.
+
+The second layer is potentially the more important divergence from the standard “disposable agents” narrative. The hypothesis is not that every case shares the same network, but that disposable execution may coexist with persistent coordination nodes.
