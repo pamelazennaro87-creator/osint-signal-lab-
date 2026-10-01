@@ -53,3 +53,40 @@ The next target is the missing edge:
 individual suspect -> assigned fragment -> intermediary -> other fragment
 
 If court documents or national prosecution records expose that edge, the cluster can be upgraded without relying on media similarity.
+
+
+## Romania / Poland expansion — new fragmentation edges
+
+### R-001 — Romania 2026: surveillance task before sabotage
+
+Romania's SRI reported on 8 September 2026 that a Russian citizen resident in Romania had been instructed by an intermediary to collect photo-video material concerning strategically important military and communications sites. SRI explicitly states that the pattern resembled networks identified in Romania in 2024 and 2025 and says the investigation found continued use of vulnerable categories of people.
+
+Source: SRI, 8 Sep 2026.
+URL: https://www.sri.ro/articole/com-10-09-2026.html
+
+**Analytical value:** this gives us a possible *pre-operational fragment*: surveillance/documentation rather than immediate physical sabotage. It allows a test of whether low-level recruitment networks use reconnaissance tasks as a separate micro-task family.
+
+Status: **F1/F2 candidate**. The public source establishes an intermediary-to-recruit tasking chain, but does not publicly expose enough identity detail to connect this individual to another case.
+
+### P-001 — Poland 2026: 47 acts + drone preparation
+
+Poland's Internal Security Agency (ABW) reported on 14 July 2026 that an 18-year-old Ukrainian citizen was charged after investigators attributed 47 criminal acts to him between November 2024 and August 2025, including desecration of memorial sites and preparation for diversionary activity involving an unmanned aircraft. The investigation also identified recruitment through internet messengers and cryptocurrency remuneration via foreign exchanges registered in Russia and China.
+
+Source: ABW, 14 Jul 2026.
+URL: https://www.abw.gov.pl/pl/aktualnosci/2831%2CAkt-oskarzenia-w-sprawie-dzialan-dzialan-dywersyjnych-na-rzecz-obcego-wywiadu.html
+
+**Analytical value:** this is a strong counterexample to the simplistic “one task, disposable agent” model. A single defendant is publicly described as having performed a large number of acts over an extended period and as being involved in preparation for a different capability involving an unmanned aircraft.
+
+Status: **F2 candidate**. Strong within-case evidence of reuse and task-family expansion; no cross-person link yet.
+
+### New research hypothesis
+
+The case should now test whether some networks contain **persistent low-level nodes** that move between task families:
+
+`recruitment -> low-level task -> repeated tasking -> reconnaissance / logistics -> new capability`
+
+This is different from assuming every recruit is disposable after one assignment.
+
+### Important distinction
+
+The Romania and Poland cases are not currently linked to each other by public evidence. Their value is comparative: they give us two different fragments that can be tested for the same structural properties without presuming a common controller.
