@@ -152,3 +152,71 @@ This is a separate intelligence-recruitment case, not a disposable-agent sabotag
 Analytical value: these cases establish a broader comparative mechanism: public service advertisement -> seemingly ordinary contact -> cultivation -> intelligence recruitment.
 
 They should not be merged with the 2023–2026 disposable-agent dataset. They are comparative evidence for the surface mechanism, not evidence of the same organization or campaign.
+
+
+## S13 — Oberlandesgericht Stuttgart, judgment, 18 Aug 2026
+
+**Type:** Primary judicial source  
+**URL:** https://oberlandesgericht-stuttgart.justiz-bw.de/pb/,Lde/Startseite/Medien/6_+Strafsenat_+Verurteilung+eines+Angeklagten+wegen+Agenten-taetigkeit+zu+Sabotagezwecken+und+Freispruch+zweier+weiterer+Angeklagter+vom+Vorwurf+der+Verabredung+zur+schweren+Brandstiftung+u_a_/?LISTPAGE=8975136
+
+**Use:** Reconnaissance fragment; knowledge/intent boundary; court-calibrated False-Link Test.
+
+**Caution:** The judgment distinguishes the convicted defendant from two acquitted defendants. It must not be used to attribute the same knowledge or intent to every participant.
+
+## S14 — Swiss Federal Criminal Court, RR.2025.121 / RR.2025.107, 16 Dec 2025
+
+**Type:** Primary judicial source  
+**URL:** https://bstger.weblaw.ch/api/getDocumentContent/f2f1dace-b14b-3e01-8854-85d0f0cee768
+
+**Use:** Cross-border fragment; Switzerland-Germany-Ukraine route; unresolved intermediary “G.”; extradition-record reconstruction.
+
+**Caution:** The Swiss court did not decide ultimate guilt. It evaluated extradition requirements and reproduced the German factual account. Treat allegations accordingly.
+
+## S15 — German Bundestag, 7 Aug 2026
+
+**Type:** Official parliamentary record / government answer summary  
+**URL:** https://www.bundestag.de/presse/hib/kurzmeldungen-1201838
+
+**Use:** National baseline for investigations, arrests, indictments and convictions; official description of recruitment through social/messaging platforms.
+
+**Caution:** Contextual source, not a person-level linkage.
+
+## S16 — Ukrainian SSU, 22 Sep 2026
+
+**Type:** Primary institutional / criminal-case source  
+**URL:** https://ssu.gov.ua/en/novyny/za-materialamy-sbu-dovichne-uviaznennia-otrymaly-odrazu-dvoie-uchasnykiv-rosiiskoi-drh-yaka-diiala-u-dekilkokh-rehionakh-ukrainy
+
+**Use:** Agent-recruiter structure and multi-region operational cell.
+
+**Caution:** Attribution remains that of the Ukrainian security service unless independently corroborated by judicial material.
+
+## S17 — Polish National Prosecutor, 16 Jan 2026
+
+**Type:** Primary prosecution source  
+**URL:** https://www.gov.pl/web/prokuratura-krajowa/akt-oskarzenia-w-sprawie-aktow-sabotazu-na-rzecz-rosyjskiego-wywiadu
+
+**Use:** Role decomposition; test shipments; recruitment/organisation; unresolved sixth participant.
+
+**Caution:** An indictment records prosecution allegations and evidence, not a final conviction.
+
+## S18 — Polish National Prosecutor, 2 Apr 2026
+
+**Type:** Primary prosecution source  
+**URL:** https://www.gov.pl/web/prokuratura-krajowa/akt-oskarzenia-w-sprawie-podpalen-obiektow-wielkopowierzchniowych-na-rzecz-wywiadu-federacji-rosyjskiej
+
+**Use:** Cross-border organised-group allegation involving Poland, Lithuania, Latvia and other countries.
+
+**Caution:** Keep this prosecution network separate from other cases until a direct evidentiary edge is established.
+
+## S19 — Italian Carabinieri ROS, July 2026
+
+**Type:** Primary institutional source  
+**URL:** https://www.carabinieri.it/in-vostro-aiuto/informazioni/comunicati-stampa/spionaggio-operazione-del-ros-due-misure-cautelari-e-decine-di-perquisizioni
+
+**Use:** Control case for insider/source-mediated recruitment.
+
+**Caution:** Deliberately excluded from the disposable-agent network unless later evidence establishes a direct relationship.
+
+## Source retention rule
+
+When adding a fragment to Case 004, **always add the source record in the same research cycle**. Do not leave an analytical node without a source URL and evidence classification.
