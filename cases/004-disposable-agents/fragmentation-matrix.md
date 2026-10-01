@@ -220,3 +220,35 @@ Future fragment links should therefore be scored separately for: (1) Action link
 A fragment may score highly on Action/Infrastructure while remaining unresolved on Knowledge/Intent/Network.
 
 This becomes a core rule of Case 004.
+
+
+### CH-001 — Swiss Federal Criminal Court: the hidden jurisdictional node
+
+A Federal Criminal Court of Switzerland decision dated 16 Dec 2025 (RR.2025.121 / RR.2025.107) concerns extradition of a Ukrainian national resident in Switzerland to Germany. The decision reproduces a detailed factual account from the German extradition request.
+
+The account adds a layer not visible in the simplified 'Germany parcel' narrative: the suspect allegedly carried a backpack from Kreuzlingen into Konstanz containing GPS trackers and car parts; a second participant received the trackers in Konstanz; another person, identified only as 'G.', supplied an address through Telegram; the packages were then sent from Konstanz and Cologne to Ukraine. The Swiss court records that the Swiss Federal Prosecutor's Office had no domestic criminal case against A. and did not object to extradition.
+
+Important evidentiary boundary: the Swiss court expressly explains that an extradition court does not decide the ultimate truth or guilt of the underlying allegations; it checks whether the foreign request provides sufficient grounds for extradition. Therefore CH-001 is a **primary judicial record of the allegation/evidence described in the German request, not a Swiss finding of guilt**.
+
+Analytical value:
+- Switzerland is not merely a geographic footnote; it appears as a transit/residence jurisdiction in the chain.
+- The coordinator layer contains an unresolved node ('G.') rather than a named person.
+- The same fragment crosses Switzerland -> Germany -> Ukraine before reaching the intended destination.
+- This gives us a new **jurisdictional-fragment dimension** for Case 004.
+
+Status: **F3 for the documented cross-border fragment; network identity remains unresolved.**
+
+Source: Swiss Federal Criminal Court, RR.2025.121 / RR.2025.107, decision 16 Dec 2025.
+https://bstger.weblaw.ch/api/getDocumentContent/f2f1dace-b14b-3e01-8854-85d0f0cee768
+
+### CH-001 methodological note — unknown intermediary as data
+
+The unidentified 'G.' must not be silently mapped to any named coordinator from other cases. Instead, it becomes a formal unresolved node:
+
+`Mariupol contact -> Yevhen B. -> Daniil B./Vladyslav T. -> G. (unknown) -> parcel address -> Ukraine`
+
+This is deliberately kept separate from the Lithuanian coordinator identified in other proceedings. A future direct evidentiary edge would be required before merging the two graphs.
+
+### New research direction: jurisdictional seams
+
+Case 004 will now track not only people and tasks, but also **jurisdictional seams**: places where a fragment crosses borders, changes courier/provider, changes legal status, or enters a different investigation. These seams may reveal relationships that person-centric reporting obscures.
