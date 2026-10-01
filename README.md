@@ -97,6 +97,20 @@ A maritime entity-resolution case testing continuity across vessel names, flags,
 - [Source Delta — Intelligence-LLM ↔ The Studio](cases/8200/cross-intelligence/source-delta-llm-studio.md)
 - [Decision Log DL-2024-0008](decision-log/DL-2024-0008.md)
 
+## Case 003 — Digital Trafficking
+
+Online recruitment and evidence-gap research focused on false employment offers, passive recruitment, vulnerability targeting, digital control and cross-jurisdiction comparability.
+
+- [Case Overview](cases/003-digital-trafficking/README.md)
+
+## Case 004 — Disposable Agents / Online Recruitment
+
+A public-source investigation into online recruitment of low-level or one-time operatives, attribution boundaries, vulnerability claims and the distinction between recruiter, criminal network and state direction.
+
+- [Case Overview](cases/004-disposable-agents/README.md)
+- [Source Register](cases/004-disposable-agents/source-register.md)
+- [Analysis Framework](cases/004-disposable-agents/analysis-framework.md)
+
 ## Research principles
 
 ### Evidence before narrative
