@@ -104,3 +104,34 @@ Each edge must be independently evidenced.
 > **When immigration status, economic precarity or diaspora ties are present, which mechanisms actually increase recruitment vulnerability, and which are merely assumed by observers?**
 
 This becomes a core divergence test rather than a conclusion.
+
+
+## Source breakthrough — employment-channel recruitment
+
+A stronger source chain confirms that employment-oriented recruitment is not merely a theoretical possibility.
+
+- **DW, 16 Sep 2026:** reports a Colombian recruit who was contacted through a Facebook group listing employment opportunities in Poland. The case connects an apparent job-seeking environment to subsequent recruitment into sabotage activity. citeturn0search0
+- **Washington Post, 18 Aug 2023:** documented cryptic online job listings offering small paid tasks to refugees from eastern Ukraine; investigators said some recruits were subsequently moved toward more sensitive assignments. citeturn0search4
+- **RUSI, 6 Aug 2026:** describes disposable-agent recruitment involving migrants, Russian-speaking residents, people facing financial difficulties and people responding to apparently straightforward paid-work offers on Telegram and other platforms. citeturn0search5
+
+### What this changes
+
+The case can now explicitly test **employment-seeking environments as a recruitment surface** rather than treating recruitment as exclusively a Telegram/social-media phenomenon.
+
+The strongest documented chain is:
+
+**employment opportunity → vulnerable/job-seeking person → initial contact → apparently ordinary paid task → escalation/hidden purpose → disposable-agent role**
+
+This is a documented pattern in specific cases; it is **not** evidence that migrants as a population are inherently easier to manipulate.
+
+### Divergence / false confirmation test
+
+We must distinguish:
+
+1. printed newspaper classified advertisement;
+2. online classified-ad platform;
+3. job board or employment group;
+4. social-media group used for employment;
+5. messaging channel.
+
+The newly verified sources establish **2–4** in relevant cases. The printed-newspaper hypothesis remains unconfirmed and stays in the research queue.
