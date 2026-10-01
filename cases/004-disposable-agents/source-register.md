@@ -49,3 +49,29 @@ For each claim, record:
 ## Evidence status
 
 No claim in this register should be upgraded to high confidence solely because it appears in multiple outlets that derive from the same investigation.
+
+## S6 — RUSI, “Responding to Russian Sabotage Financing”
+
+**Type:** Specialist research / workshop-based assessment
+
+RUSI describes a “gig-economy era” recruitment model in which low-cost assignments are outsourced to disposable individuals recruited online. It identifies encrypted messaging services and other digital platforms as recruitment environments and describes financially motivated one-day actors.
+
+**Use:** Structural model of remote recruitment and the economics of disposable-agent activity.
+
+**Caution:** RUSI's publication should not be converted into a claim that every job advertisement is Russian intelligence recruitment.
+
+## S7 — September 2026 reporting on classified-ad platforms
+
+A September 2026 Ukrainian investigation explicitly describes Russian intelligence recruitment through **anonymous Telegram channels and classified-ad platforms**, alongside social-media recruitment. It reports that young people and migrants are among the groups most frequently targeted.
+
+**Evidence status:** Secondary reporting. The underlying RUSI material cited by the report should be treated separately from the reporter's reconstruction.
+
+### Critical terminology correction
+
+The portfolio should distinguish:
+
+**job newspaper / printed classified → online classified-ad platform → job board → job-seeker platform → social-media group → messaging app**
+
+The evidence currently establishes **classified-ad platforms / employment-oriented online channels**, but I have not yet found a sufficiently strong source proving that the present Russian sabotage networks specifically used a **printed newspaper employment advertisement**.
+
+Therefore “newspaper” remains an open source-hunting target rather than a confirmed fact.
