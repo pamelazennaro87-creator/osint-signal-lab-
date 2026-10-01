@@ -38,7 +38,22 @@ These records use the same designation, but the records themselves do **not** es
 
 The laboratory therefore models the connection as an **unresolved continuity hypothesis**, not an identification.
 
+## Portfolio
+
+- [Professional Research Profile](PROFILE.md)
+- [Portfolio Overview](PORTFOLIO.md)
+- [Case Index](cases/INDEX.md)
+- [Research Ethics & Boundaries](ETHICS.md)
+- [OSINT Glossary](GLOSSARY.md)
+- [Changelog](CHANGELOG.md)
+
 ## Methods
+
+- [Case Template](methods/case-template.md)
+- [Source Reliability & Independence](methods/source-reliability.md)
+- [Confidence Model](methods/confidence-model.md)
+- [Alternative Hypotheses & Divergence](methods/alternative-hypotheses.md)
+- [Reproducibility](methods/reproducibility.md)
 
 - [Methodology](methods/methodology.md)
 - [Case Study](cases/8200/case-study.md)
@@ -66,6 +81,18 @@ Case 001 now includes a dedicated cross-intelligence branch mapping institutiona
 - [Mission Evolution](cases/8200/mission-evolution.md)
 - [Succession Map](cases/8200/succession-map.md)
 - [Institutional Architecture](cases/8200/institutional-architecture.md)
+- [Project Identity Test — Intelligence-LLM ↔ The Studio](cases/8200/cross-intelligence/project-identity-test.md)
+- [Source Delta — Intelligence-LLM ↔ The Studio](cases/8200/cross-intelligence/source-delta-llm-studio.md)
+- [Decision Log DL-2024-0008](cases/8200/decision-log/DL-2024-0008.md)
+
+## Case 002 — BERILL / IMO 9311531
+
+A maritime entity-resolution case testing continuity across vessel names, flags, managers and sanctions records.
+
+- [Case Overview](cases/002-berill/README.md)
+- [Temporal Identity Timeline](cases/002-berill/timeline.md)
+- [False-Match Tests](cases/002-berill/false-match-tests.md)
+- [Source Register](cases/002-berill/sources.md)
 - [Project Identity Test — Intelligence-LLM ↔ The Studio](cases/8200/cross-intelligence/project-identity-test.md)
 - [Source Delta — Intelligence-LLM ↔ The Studio](cases/8200/cross-intelligence/source-delta-llm-studio.md)
 - [Decision Log DL-2024-0008](decision-log/DL-2024-0008.md)
