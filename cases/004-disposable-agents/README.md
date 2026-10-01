@@ -6,7 +6,7 @@ How are low-level or one-time recruits approached online for criminal or sabotag
 
 ## Why this case exists
 
-Recent European reporting and official security assessments describe online recruitment of people for low-level tasks linked to Russian intelligence or other criminal networks.
+Recent European reporting and official security assessments describe recruitment through **job-seeker environments as well as social and messaging platforms**. The channel itself is therefore part of the investigation, not a detail to collapse into “Telegram recruitment”.
 
 The important OSINT problem is not simply attribution. It is reconstructing the chain:
 
@@ -16,9 +16,9 @@ Each edge requires separate evidence.
 
 ## Current public evidence
 
-The Lithuanian State Security Department states that Russian intelligence services have used Telegram groups containing propaganda, job advertisements and other illicit offers, targeting socially vulnerable people with monetary incentives. It warns that people responding to such offers may later be drawn into sabotage or other criminal activity.
+The Lithuanian State Security Department states that Russian intelligence services have used Telegram groups containing propaganda, job advertisements and other illicit offers, targeting socially vulnerable people with monetary incentives. Separately, the September 2026 EBU investigation reports recruits being approached through social media, **job-seeker platforms**, and volunteering forums. A 2024 Wall Street Journal investigation likewise documented a recruit who answered a paid job advertisement posted on Telegram. These are related recruitment surfaces, but they should not be treated as one identical channel.
 
-European investigative reporting has separately documented one-time operatives recruited online for sabotage, including through informal employment channels.
+European investigative reporting has separately documented one-time operatives recruited online for sabotage, including through employment-oriented channels. The exact distinction between a newspaper classified advertisement, a job board, a social-media group and a messaging-app post remains a source-level question and will be coded separately.
 
 In September 2026, an EBU investigation reported a cross-border network of recruits linked by authorities to Russian-directed sabotage activity in Czechia, Poland, Romania and Lithuania during 2024.
 
