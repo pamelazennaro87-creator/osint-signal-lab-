@@ -107,3 +107,48 @@ Source: Malgorzata Fraser, CyberDefence24, “Sabotaz, zabojstwa, podpalenia. To
 URL: https://cyberdefence24.pl/armia-i-sluzby/sabotaz-zabojstwa-podpalenia-to-mieli-robic-rekrutowani-przez-rosjan-w-polsce
 
 This source independently describes the case as beginning with online job offers that appeared innocuous, followed by increasingly intelligence-related assignments. It is useful as second-source corroboration, but it remains the same underlying case and is therefore not independent confirmation of a separate recruitment network.
+
+
+## S10 — LRT / Vot Tak, 2026: recruitment-distribution layer
+
+Source: LRT, “Filming drones, burning jeeps in Lithuania. Behind Russia's sabotage network.”
+
+URL: https://www.lrt.lt/en/news-in-english/19/2984327/filming-drones-burning-jeeps-in-lithuania-behind-russia-s-sabotage-network
+
+New finding: the investigation adds a distributor layer. Recruitment advertisements appeared in employment chats, while the accounts distributing them were often intermediary accounts rather than the ultimate recruiters. Some distributor accounts were short-lived; the investigation also reports efforts to acquire established Telegram accounts.
+
+This changes the model from job ad -> recruit -> recruiter to: employment chat -> distributor account -> recruit -> recruiter/handler -> task.
+
+The relevant OSINT objects are therefore advertisement, employment group, distributor account, account provenance, recruiter account, redirect/channel, subsequent tasking and attribution evidence.
+
+Boundary: reported scale figures are source-specific and should not be treated as independently audited prevalence estimates.
+
+## S11 — Detector Media, 8 Oct 2024: darknet + employment-group convergence
+
+Source: Detector Media Research Center, “How Enemy Telegram Recruiters and Bots Are Recruiting Ukrainians for Sabotage.”
+
+URL: https://en.detector.media/post/how-does-enemy-telegram-recruiters-and-bots-recruit-ukrainians-for-sabotage
+
+New finding: recruitment advertisements were reported in job-seeking groups, while a separate pathway involved a darknet forum. This creates a cross-platform hypothesis: employment environment <-> messaging platform <-> bot/recruiter <-> darknet/criminal ecosystem.
+
+The source also reports job-seeking groups containing advertisements for other criminal services. This raises an alternative hypothesis that recruitment ecosystems may overlap with broader illicit-market infrastructure rather than being exclusively state-created spaces.
+
+Alternative hypotheses:
+H1 — dedicated intelligence recruitment infrastructure
+H2 — criminal marketplace infrastructure subsequently exploited by intelligence recruiters
+H3 — mixed ecosystem in which legitimate employment communities, criminal advertising and intelligence recruitment overlap
+H4 — apparent common infrastructure reflects platform affordances rather than common organizational control
+
+No hypothesis is treated as established solely from co-location.
+
+## S12 — Le Monde, 25 Oct 2022: employment/service advertisement as intelligence recruitment surface
+
+Source: Jacques Follorou, Le Monde, “Russian spies recruit through French resale site Leboncoin.”
+
+URL: https://www.lemonde.fr/en/international/article/2022/10/25/russian-spies-recruit-through-french-resale-site_6001681_4.html
+
+This is a separate intelligence-recruitment case, not a disposable-agent sabotage case. A French engineer advertising mathematics tutoring on Leboncoin was approached through the platform by a person presenting himself as a consultant; the relationship later developed into an alleged SVR recruitment attempt. A second case in the same report involved an intelligence officer responding to an online French-language tutoring advertisement.
+
+Analytical value: these cases establish a broader comparative mechanism: public service advertisement -> seemingly ordinary contact -> cultivation -> intelligence recruitment.
+
+They should not be merged with the 2023–2026 disposable-agent dataset. They are comparative evidence for the surface mechanism, not evidence of the same organization or campaign.
