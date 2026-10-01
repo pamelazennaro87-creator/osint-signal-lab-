@@ -66,6 +66,9 @@ Case 001 now includes a dedicated cross-intelligence branch mapping institutiona
 - [Mission Evolution](cases/8200/mission-evolution.md)
 - [Succession Map](cases/8200/succession-map.md)
 - [Institutional Architecture](cases/8200/institutional-architecture.md)
+- [Project Identity Test — Intelligence-LLM ↔ The Studio](cases/8200/cross-intelligence/project-identity-test.md)
+- [Source Delta — Intelligence-LLM ↔ The Studio](cases/8200/cross-intelligence/source-delta-llm-studio.md)
+- [Decision Log DL-2024-0008](decision-log/DL-2024-0008.md)
 
 ## Research principles
 
