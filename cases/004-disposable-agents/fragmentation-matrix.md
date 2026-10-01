@@ -252,3 +252,64 @@ This is deliberately kept separate from the Lithuanian coordinator identified in
 ### New research direction: jurisdictional seams
 
 Case 004 will now track not only people and tasks, but also **jurisdictional seams**: places where a fragment crosses borders, changes courier/provider, changes legal status, or enters a different investigation. These seams may reveal relationships that person-centric reporting obscures.
+
+
+## Primary-source expansion — hidden structures
+
+### PL-004 — test shipments as infrastructure reconnaissance
+
+The Polish National Prosecutor states that shipments to the United States and Canada were described as test operations intended to check logistics channels and international transit time, especially air transport. This is analytically distinct from the final sabotage acts: the same logistics system can be used first as a measurement environment and later as an operational channel.
+
+Status: **F3 logistics-reconnaissance fragment** within the Polish prosecution; do not infer that every test shipment was knowingly connected to sabotage beyond what the indictment establishes.
+
+Source: https://www.gov.pl/web/prokuratura-krajowa/akt-oskarzenia-w-sprawie-aktow-sabotazu-na-rzecz-rosyjskiego-wywiadu
+
+### PL-005 — unresolved sixth participant / international fugitive node
+
+The same indictment states that evidence supported charges against a sixth person, Jaroslav M., a Russian citizen, but charges had not been served because his location was unknown; Polish authorities sought domestic and international searches and requested extradition from Azerbaijan. The investigation against him and other persons continued.
+
+Analytical value: the public indictment exposes an **unresolved external node** rather than a closed five-person network. Azerbaijan therefore becomes a jurisdictional seam to monitor for later court or extradition records.
+
+Status: **F2/F3 unresolved-node evidence.**
+
+### IT-002 — Italy: a different recruitment architecture
+
+The Italian Carabinieri ROS announced in July 2026 that a 59-year-old former national-intelligence member was arrested in a case involving alleged espionage for a person described as a Russian intelligence officer covered by diplomatic immunity. Investigators said the principal suspect obtained information through six sources, including four serving military personnel. The Military Prosecutor's Office and ordinary Prosecutor's Office opened linked proceedings.
+
+This is not a disposable-agent case and should not be merged with Case 004. It is useful as a **control case**: the recruitment architecture is source-mediated and insider-based rather than mass online gig recruitment.
+
+Status: **CONTROL / F0 for Case 004 linkage.**
+
+Source: https://www.carabinieri.it/in-vostro-aiuto/informazioni/comunicati-stampa/spionaggio-operazione-del-ros-due-misure-cautelari-e-decine-di-perquisizioni
+
+### New analytical module — Channel substitution
+
+The cases now suggest that the relevant variable is not simply the identity of the recruit but the **channel through which capability is acquired**:
+
+A. gig-style public recruitment -> low-level tasking
+B. closed messenger recruitment -> intermediary -> tasking
+C. insider/source recruitment -> classified information
+D. cross-border logistics intermediary -> physical transport
+
+These channels can coexist in the same national security environment without constituting one network.
+
+Case 004 will therefore distinguish **network linkage** from **channel convergence**. Similar channels are a comparative finding, not evidence of common control.
+
+### New analytical module — Measurement fragments
+
+A test shipment, tracker shipment, reconnaissance assignment, or other preparatory act may generate information about a logistics system before an overt operational act occurs. We label these **measurement fragments**.
+
+Model:
+`measurement -> observation -> adjustment -> later task`
+
+This does not imply that every preparatory action belongs to a later operation. The link must be established from the record.
+
+### Research queue: next primary-source seams
+
+1. Azerbaijan — extradition/search records concerning Jaroslav M.
+2. Switzerland/Germany — subsequent judicial records after the 16 Dec 2025 extradition decision.
+3. Poland — trial judgments following the Jan 2026 indictment.
+4. Romania — court files concerning the Nova Post case and the 2026 reconnaissance/sabotage case.
+5. Lithuania/Latvia — judgments or prosecutor files that identify intermediaries not named in media reporting.
+6. United States/Canada — records concerning the Polish 'test shipments', if publicly accessible.
+7. Italy — judicial developments in the July 2026 espionage case, kept as a separate control dataset.
