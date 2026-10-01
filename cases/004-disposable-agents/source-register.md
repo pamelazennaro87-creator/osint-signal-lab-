@@ -220,3 +220,26 @@ They should not be merged with the 2023–2026 disposable-agent dataset. They ar
 ## Source retention rule
 
 When adding a fragment to Case 004, **always add the source record in the same research cycle**. Do not leave an analytical node without a source URL and evidence classification.
+
+
+## S20 — Polish National Prosecutor, Starlink ground station investigation, 25 Sep 2026
+
+**Type:** Primary prosecution source  
+**URL:** https://www.gov.pl/web/prokuratura-krajowa/wszczecie-sledztwa-w-sprawie-pozaru-stacji-starlink-w-woli-krobowskiej
+
+**Use:** New target-family fragment: satellite communications infrastructure; official investigative attribution/suspicion.
+
+**Evidence boundary:** The investigation was opened after the 23 Sep 2026 fire. The prosecutor states the fire was arson and that there were reasonable grounds to suspect Russian-service direction. No person had been charged at the time of the notice. This is not a judicial finding of guilt.
+
+## S21 — U.S. Department of Justice, Southern District of New York, indictment unsealed 15 Sep 2026
+
+**Type:** Primary federal prosecution source  
+**URL:** https://www.justice.gov/usao-sdny/pr/members-russian-intelligence-services-network-charged-conspiring-finance-terrorism-and
+
+**Use:** Persistent coordinator/recruiter layer; alleged cross-jurisdictional mission portfolio; Prague and Lithuania operations plus alleged U.S. surveillance/murder plot.
+
+**Evidence boundary:** The DOJ describes the indictment as allegations and states that all defendants are presumed innocent. Do not present the alleged network as judicially established.
+
+## Source genealogy note — apparent convergence
+
+S20 and S21 are **not** treated as corroboration of one another. They concern different proceedings, countries, dates and evidentiary records. A future linkage would require a direct edge such as a shared person, communication, infrastructure, payment, travel record, or judicial document.
