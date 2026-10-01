@@ -76,3 +76,31 @@ This case studies recruitment and attribution using public evidence. It does not
 - cross-border timeline;
 - alternative-hypothesis matrix;
 - negative-space / unresolved-evidence register.
+
+## Immigration and migrant vulnerability — verified research branch
+
+A stronger evidence base now supports treating immigration status and migrant vulnerability as a separate analytical variable.
+
+A 2026 peer-reviewed study analysing an anonymised dataset of 145 low-level agents reports that **40.7% were immigrants** and that the dataset included nationals from Ukraine, Russia, Moldova, Bulgaria, Colombia, Cuba, Morocco and Algeria. The authors explicitly state that the finding suggests diaspora communities may be particularly vulnerable to recruitment. This is a study-level finding, not proof that immigrants are inherently easier to manipulate.
+
+The same study defines low-level agents broadly: they may be of any nationality and may know, not know, or be indifferent to the ultimate Russian intelligence connection. This is important for attribution and prevents nationality from being used as a proxy for control.
+
+A separate September 2026 EBU investigation reports that many recruits were young and financially vulnerable and were approached through social media, job-seeker platforms and volunteering forums, often while seeking work in Europe. Authorities in Lithuania, Romania and Poland linked that network to Russian military intelligence.
+
+There is also a distinct **human-trafficking/recruitment branch** that must not be merged with sabotage recruitment. In September 2026, Amnesty International documented foreign nationals from low-income countries and migrants/refugees already in Russia being deceived with civilian job offers, high salaries, legal status or citizenship before being drawn into Russian military service. The European Parliament separately described deceptive recruitment of non-Russian nationals, including people from Africa, Cuba and South/Central Asia, through false employment, education or citizenship promises.
+
+### Analytical distinction
+
+These findings support the existence of documented recruitment vulnerabilities among some migrant/immigrant populations. They do **not** support the general proposition that immigrants are "easy to manipulate".
+
+For the case, we therefore code:
+
+**migration status → economic vulnerability → recruitment surface → deception/incentive → task → controller attribution**
+
+Each edge must be independently evidenced.
+
+### New research question
+
+> **When immigration status, economic precarity or diaspora ties are present, which mechanisms actually increase recruitment vulnerability, and which are merely assumed by observers?**
+
+This becomes a core divergence test rather than a conclusion.
