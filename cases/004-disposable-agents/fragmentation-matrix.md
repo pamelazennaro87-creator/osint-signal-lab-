@@ -153,3 +153,70 @@ The research question becomes stronger:
 > Can fragmented public cases be modelled as different positions in an operational ecosystem — recruitment, intermediary, reconnaissance, logistics, execution and repeated tasking — without assuming that every case shares the same controller?
 
 That is the boundary condition for the next phase.
+
+
+## Primary-source / court-record expansion — 30 Sep 2026
+
+### DE-002 — Stuttgart judgment: reconnaissance before sabotage
+
+Primary judicial source: Oberlandesgericht Stuttgart, judgment dated 18 Aug 2026, case 6 St 3 BJs 158/25.
+
+The court found that three Ukrainian defendants participated in March 2025 in sending two parcels from Germany to Ukraine containing GPS trackers and car parts. The court found that the Russian state client intended, at least in part, to use the operation to investigate possibilities for later sabotage against transport and related infrastructure in Germany.
+
+Crucially, the court did not establish that the three defendants had agreed to a later plan to send incendiary parcels, nor that the two younger defendants knew of or intended such sabotage. One 30-year-old defendant was convicted for knowingly participating in reconnaissance of possible sabotage targets; the other two were acquitted on the relevant charges.
+
+The court records that the 30-year-old organised the tracker shipment on instructions from an acquaintance from Russian-occupied Mariupol and involved the other two defendants.
+
+Evidence explicitly considered by the court included extensive chat communications, witness testimony, searches and seized material, and information supplied by the German Federal Office for the Protection of the Constitution. This gives us an evidentiary boundary, not merely an allegation.
+
+Status: F3 for the reconnaissance fragment; F0/F1 for any claimed connection to the later incendiary-parcel network.
+
+Analytical value: recruitment/contact -> reconnaissance/logistics test -> evidentiary threshold -> court-confirmed attribution.
+
+Source: https://oberlandesgericht-stuttgart.justiz-bw.de/pb/,Lde/Startseite/Medien/6_+Strafsenat_+Verurteilung+eines+Angeklagten+wegen+Agenten-taetigkeit+zu+Sabotagezwecken+und+Freispruch+zweier+weiterer+Angeklagter+vom+Vorwurf+der+Verabredung+zur+schweren+Brandstiftung+u_a_/?LISTPAGE=8975136
+
+### DE-003 — German federal baseline
+
+A 7 Aug 2026 Bundestag summary of the Federal Government's answer to a parliamentary inquiry states that the Federal Prosecutor's Office initiated 58 investigations in the preceding five years involving intelligence-agent activity, sabotage, sabotage preparation and related offences; 53 involved §99 intelligence-agent proceedings. From 10 Jul 2021 to 10 Jul 2026 there were 30 arrests, 19 indictments and 13 convictions within the Federal Prosecutor's jurisdiction.
+
+The Government states that Russian intelligence/security services frequently used low-level agents recruited through social media or messaging services, with Telegram particularly common.
+
+Status: context / baseline, not a link between individual cases.
+
+Source: https://www.bundestag.de/presse/hib/kurzmeldungen-1201838
+
+### UA-002 — Ukraine: recruiter node becomes operational infrastructure
+
+The SSU reported on 22 Sep 2026 that two members of an FSB sabotage/reconnaissance group operating across several Ukrainian regions were sentenced to life imprisonment and a third to 15 years. According to the SSU, the cell operated under a Russian intelligence officer, monitored energy and military infrastructure, and also sought and recruited potential spotters and operatives for contract sabotage and terrorist attacks.
+
+Status: F2/F3 candidate for the agent-recruiter model. The source is an intelligence-service account of a criminal case, so individual factual assertions remain attributed.
+
+Source: https://ssu.gov.ua/en/novyny/za-materialamy-sbu-dovichne-uviaznennia-otrymaly-odrazu-dvoie-uchasnykiv-rosiiskoi-drh-yaka-diiala-u-dekilkokh-rehionakh-ukrainy
+
+### PL-002 — Poland: indictment explicitly separates roles
+
+The Polish National Prosecutor's 16 Jan 2026 indictment identifies five defendants and assigns differentiated roles: preparation/handling of incendiary parcels, transport/storage, documentation and information transfer, group organisation and recruitment, and preparation of future test shipments.
+
+This provides public-source role decomposition rather than treating all participants as interchangeable agents.
+
+Status: F3 role-structure evidence. It does not by itself prove that every listed role belongs to the same wider network outside this indictment.
+
+Source: https://www.gov.pl/web/prokuratura-krajowa/akt-oskarzenia-w-sprawie-aktow-sabotazu-na-rzecz-rosyjskiego-wywiadu
+
+### PL-003 — Poland/Lithuania/Latvia: cross-border organised-group case
+
+The Polish National Prosecutor's 2 Apr 2026 indictment states that an organised group operated in Poland, Lithuania, Latvia and other European countries and attributes several 2024 fires/preparatory acts to defendants and previously convicted or wanted persons.
+
+Status: F3 at the prosecution-case level, but keep the alleged network separate from the German reconnaissance case until a direct evidentiary edge is found.
+
+Source: https://www.gov.pl/web/prokuratura-krajowa/akt-oskarzenia-w-sprawie-podpalen-obiektow-wielkopowierzchniowych-na-rzecz-wywiadu-federacji-rosyjskiej
+
+## New methodological finding
+
+The German judgment gives us a court-calibrated False-Link Test. A common recruiter, nationality, platform, parcel method or alleged controller is not enough. The court distinguished objectively established conduct; knowledge/intent; participation in reconnaissance; and participation in a later sabotage plan.
+
+Future fragment links should therefore be scored separately for: (1) Action link — same operation/activity? (2) Infrastructure link — same intermediary/channel/logistics? (3) Knowledge link — did the participant know the operational purpose? (4) Intent link — was sabotage knowingly intended? (5) Network link — is the same organisation/intermediary independently established?
+
+A fragment may score highly on Action/Infrastructure while remaining unresolved on Knowledge/Intent/Network.
+
+This becomes a core rule of Case 004.
