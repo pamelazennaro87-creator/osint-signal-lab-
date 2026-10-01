@@ -313,3 +313,54 @@ This does not imply that every preparatory action belongs to a later operation. 
 5. Lithuania/Latvia — judgments or prosecutor files that identify intermediaries not named in media reporting.
 6. United States/Canada — records concerning the Polish 'test shipments', if publicly accessible.
 7. Italy — judicial developments in the July 2026 espionage case, kept as a separate control dataset.
+
+
+## Divergence finding — Estonia, 29 Sep 2026
+
+### EE-001 — Milrem Robotics: target-family shift
+
+On 29 Sep 2026, Estonia's Internal Security Service (KAPO) publicly attributed the 15 Aug 2026 arson at premises used by Milrem Robotics in Tallinn to an attack ordered by Russian security services. Three Latvian suspects had been arrested in Latvia and subsequently extradited to Estonia, where they were remanded in custody. The criminal investigation remains ongoing.
+
+Primary sources:
+- KAPO, “Milremi süütamine oli Venemaa eriteenistuste tellimus”, 29 Sep 2026: https://kapo.ee/et/content/milremi-suutamine-oli-venemaa-eriteenistuste-tellimus/
+- Estonian Prosecutor's Office, “Potential case of arson in Tallinn”, 18 Aug 2026: https://www.prokuratuur.ee/en/news/potential-case-arson-tallinn
+- ERR, extradition/remand report: https://news.err.ee/1610144998/3-latvian-suspects-in-milrem-arson-extradited-to-estonia-remanded
+
+The unexpected analytical point is not simply the attribution. Milrem is a defence-technology manufacturer of unmanned ground vehicles, so this case potentially expands the target-family map from logistics/transport infrastructure to a defence-technology production environment.
+
+Status: F2 target-family divergence. The Russian attribution is an Estonian official assessment, while the criminal case is still ongoing. Do not treat the attribution as a final judicial finding.
+
+### EE-002 — Estonia: recruitment pool broader than the online job seeker model
+
+In the same 29 Sep 2026 KAPO/ERR reporting, KAPO director Margo Palloson said the recruitment pool observed by Estonian authorities includes people from the Russian-speaking community in Estonia, criminal circles including organised-crime networks, and foreign nationals. He said money is often the motivation and that recruits may not be told they are acting for Russian special services.
+
+Analytical value: this is a useful divergence from a single-surface model. It suggests that the recruitment ecosystem can draw from multiple pre-existing social reservoirs, including criminal networks and foreign residents, rather than relying exclusively on public employment advertisements.
+
+Status: F1 comparative finding. It is a statement by the Estonian security service about observed recruitment patterns, not an independently measured prevalence estimate.
+
+### EE-003 — Estonia: separate control case, intelligence collection rather than sabotage
+
+On 17 Aug 2026, the Estonian Prosecutor's Office reported that the Harju District Court convicted dual Estonian-Russian citizen Edgar Mukhanov of intelligence activity and support. According to the prosecution, he collected information from Estonia and Latvia on military equipment and NATO forces for a GRU officer; the court imposed six years' imprisonment. The prosecution states that the cooperation began no later than Dec 2023 and involved frequent travel between Estonia and Latvia.
+
+Source: Estonian Prosecutor's Office, 17 Aug 2026:
+https://www.prokuratuur.ee/uudised/kohus-tunnistas-eesti-vene-topeltkodaniku-suudi-luuretegevuses-osalemises
+
+Analytical value: this is deliberately kept outside the disposable-agent network. It is a control case showing a persistent intelligence-collection relationship with a court conviction, contrasting with low-level sabotage recruitment.
+
+Status: CONTROL / F0 for Case 004 linkage.
+
+## Divergence conclusion
+
+The Estonia evidence produces a testable divergence:
+
+employment recruitment is only one recruitment surface.
+
+The broader ecosystem may contain at least three reservoirs:
+
+1. employment/job-seeking environments;
+2. criminal/social networks;
+3. persistent intelligence-source relationships.
+
+At the same time, target selection may extend beyond logistics to defence-technology production.
+
+This does not establish one network connecting these reservoirs. It establishes a reason to stop modelling Case 004 as a single recruitment channel.
