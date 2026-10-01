@@ -90,3 +90,66 @@ This is different from assuming every recruit is disposable after one assignment
 ### Important distinction
 
 The Romania and Poland cases are not currently linked to each other by public evidence. Their value is comparative: they give us two different fragments that can be tested for the same structural properties without presuming a common controller.
+
+
+## European expansion — Germany, Italy, Ukraine, Lithuania
+
+### DE-001 — Germany: parcel-network prosecution
+
+On 17 March 2026, reporting on the Stuttgart trial described three defendants accused by the Federal Prosecutor of preparing sabotage involving the logistics chain of a Ukrainian parcel company. The reporting says investigators identified a Telegram-based intermediary in Mariupol and that the defendants were allegedly recruited through that channel. This provides a German judicial/prosecution context for the same broader parcel-sabotage ecosystem already documented by Eurojust.
+
+Source: Tagesschau/SWR/BR, 17 Mar 2026.
+URL: https://www.tagesschau.de/investigativ/swr/wegwerfagenten-prozess-100.html
+
+Status: **F2** — linked to the parcel-network family, but the public report does not yet give us enough independent person-to-fragment edges to reconstruct the full network.
+
+### IT-001 — Italy: complementary intelligence/recruitment layer
+
+A 22 September 2026 Italian Senate record summarises an investigation in which alleged Russian intelligence activity in Italy included distinct and complementary strands: collection concerning military/NATO-related capabilities, analysis of Italian vulnerabilities, attempted recruitment of Belarusian and Eastern-European citizens potentially usable in sabotage, and systematic collection concerning digital infrastructure vulnerabilities.
+
+Source: Italian Senate, 22 Sep 2026.
+URL: https://www.senato.it/show-doc?id=1521812
+
+Analytical value: Italy gives us a potentially different **upstream layer** than the low-level-agent cases: intelligence collection + vulnerability mapping + recruitment activity appearing in the same investigative picture.
+
+Status: **F1/F2 candidate**. The parliamentary record is a summary of an investigation, not a primary court judgment establishing each relationship. Do not merge this with the parcel cases without a direct evidentiary edge.
+
+### UA-001 — Ukraine: recruitment → coordinator → repeated recruits
+
+The Ukrainian SSU reported in May 2026 that an alleged FSB-linked coordinator had recruited other people after being approached while seeking easy money on Telegram. The SSU described the coordinator as supervising two other suspects in separate arson activity. A September 2026 SSU case also records a previously exposed recruit who had been sentenced after carrying out repeated arson activity.
+
+Sources:
+- SSU, 6 May 2026: https://ssu.gov.ua/en/novyny/sbu-vykryla-ahenta-fsb-yakyi-orhanizuvav-pidpaly-viiskovykh-avto-u-kyievi
+- SSU, 7 Sep 2026: https://ssu.gov.ua/en/novyny/za-materialamy-sbu-10-rokiv-tiurmy-otrymav-ahent-rf-yakyi-zaimavsia-pidpalamy-na-odeshchyni-u-zhovtni-2024-roku
+
+Analytical value: this is a concrete test of the **agent-recruiter** model: a low-level participant can become an intermediary/recruiter rather than remaining a single-use endpoint.
+
+Status: **F2 candidate**. The structural relationship is publicly described; cross-case identity linkage to the European parcel cluster is not established.
+
+### LT-001 — Lithuania: multi-role / multi-person case structure
+
+Lithuanian prosecutors reported on 2 September 2026 that a terrorism case involving six defendants had been separated from a larger continuing investigation. The case includes allegations concerning organised activity, recruitment, financing and planned violent activity, with suspects of several nationalities. Prosecutors state that the wider investigation remains ongoing.
+
+Source: Lithuanian Prosecutor General's Office, 2 Sep 2026.
+URL: https://www.prokuraturos.lt/lt/teismui-perduota-baudziamoji-byla-del-bandymo-lietuvoje-ivykdyti-teroro-akta/12755
+
+Analytical value: the split between a court-ready case and a still-running wider investigation is useful for studying how public evidence exposes only fragments of a larger network.
+
+Status: **F1** pending direct linkage to the parcel cluster.
+
+### Comparative result
+
+The expanded matrix now contains four distinct structural patterns:
+
+1. **Germany:** parcel-network prosecution and intermediary recruitment.
+2. **Italy:** intelligence collection + vulnerability analysis + attempted recruitment in one investigative picture.
+3. **Ukraine:** agent-recruiter / repeated-recruit structure.
+4. **Lithuania:** court-ready sub-case separated from a larger continuing investigation.
+
+These are **not one network** on current evidence.
+
+The research question becomes stronger:
+
+> Can fragmented public cases be modelled as different positions in an operational ecosystem — recruitment, intermediary, reconnaissance, logistics, execution and repeated tasking — without assuming that every case shares the same controller?
+
+That is the boundary condition for the next phase.
