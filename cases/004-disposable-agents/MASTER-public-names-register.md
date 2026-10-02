@@ -26,6 +26,22 @@
 - Telegram ads: “photographer” (RU, Poland); military experience “monitoring, intelligence, logistics, tactical manoeuvres” — **$1,500 + bonus**  
 - Presented as “special group / special missions in Europe”
 
+### Cross-link: US SDNY indictment ↔ Associate-1 ↔ de la Hoz
+
+| Source | What it establishes |
+|--------|---------------------|
+| **US SDNY indictment** (primary) | In or about **June 2024**, DURRUTHY paid and coordinated travel for **Associate-1** to carry out attacks in **Prague, Czechia** |
+| Secondary (OCCRP / Czech press) | Associate-1 = **Andrés Alfonso de la Hoz de la Cruz**; Durruthy transferred **>$1,000 crypto** + booked **hotels PL/CZ** |
+| **Prague Municipal Court** (Jun 2025) | de la Hoz convicted **8 years**; instructions via Telegram from person nicknamed **Adrian** |
+| Alias set (DW/LRT) | Romagoza = **Adrian** / **Dios** |
+
+**Edge score:** Durruthy ↔ Associate-1 (payment + travel) = **PRIMARY** (indictment).  
+Name Associate-1 = de la Hoz = **CORROBORATED** (multi-outlet + conviction).  
+Adrian = Romagoza = **CORROBORATED**.  
+Indictment also: Durruthy coordinated **Lithuania September 2024** operation → aligns Šiauliai timeline.
+
+Full extract: `us-sdny-indictment-extracts.md`
+
 ### Pecora — pair verification
 - **No open social/public business profile** found in RU/ES/EN searches under Pecora/Pekora + SPb + Cuba  
 - Function split with Romagoza is **consistent across LT, ES, RU secondary**:  
@@ -38,7 +54,8 @@
 - LRT LT: after first attempt, Cuban woman from **Kaliningrad region** entered LT; later taxi to TVC Solutions area  
 - Second Cuban woman on taxi 23 Sep = **Yexenija Lopez Cabrera** (arrested)  
 - Mayra = the one who **left** LT and was later **arrested in Panama**  
-- Age 1965 + dual ES citizenship = atypical field profile → facilitation / assessment hypothesis remains open
+- Age 1965 + dual ES citizenship = atypical field profile → facilitation / assessment hypothesis remains open  
+- Tracking file: `mayra-panama-extradition-tracking.md` (no public Panama docket yet)
 
 ---
 
@@ -66,7 +83,7 @@ Direction: **Legarda Devia + Pecora + Romagoza**
 
 | Full name | Citizenship | Case | Sentence |
 |-----------|-------------|------|----------|
-| **Andrés Alfonso de la Hoz de la Cruz** | Colombian | Prague bus depot Jun 2024 | **8 years** (Jun 2025) |
+| **Andrés Alfonso de la Hoz de la Cruz** | Colombian | Prague bus depot Jun 2024 | **8 years** (Jun 2025) — **US Associate-1** |
 | **Luis Alfonso Murillo Diosa** | Colombian (ex-soldier) | Romania recycling facility | **6 years** |
 
 ---
@@ -102,6 +119,8 @@ Both Cuban, both b. 1991, both LT-wanted, both alleged GRU-linked. Function spli
 
 This register is **not** the Eurojust parcel graph (Šuranovas, Jencius, Kovačas, Borsukas, Salmanovas / Gromov-Mikhailov / Stabacinskas / Baburov).
 
+See also **Case 005** (RIS Network US–EU bridge) for the indictment-centred frame that shares nodes with this register without absorbing the EU field graph wholesale.
+
 ---
 
 ## Sources
@@ -109,7 +128,7 @@ This register is **not** the Eurojust parcel graph (Šuranovas, Jencius, Kovača
 - LRT Investigation (LT + EN), Sep 2026  
 - DW / RTVE / CT partners  
 - Lithuanian Prosecutor General Office  
-- US SDNY indictment  
+- US SDNY indictment (`us-sdny-indictment-extracts.md`)  
 - 14ymedio, CiberCuba, Kartoteka, StopRussianRecruiters  
 - Prague court reporting (de la Hoz)
 
