@@ -1,107 +1,91 @@
 # Public-Names Graph — Ramagoza / RIS Network (EU sabotage + US indictment)
 
-**Status:** Named nodes from DW/LRT/CT/RTVE investigation + US SDNY indictment + Czech conviction  
-**Rule:** Only names that appear in court, indictment, or multi-outlet investigative reporting.  
-**Boundary:** This graph is **not** merged with the Eurojust self-igniting-parcel graph unless a primary source bridges them.
+**Status:** Named nodes from DW/LRT/CT/RTVE + US SDNY + Lithuanian prosecutor (Šiauliai) + Czech conviction  
+**Updated:** 2026-10-02  
+**Rule:** Only names in court, indictment, or multi-outlet investigative / official reporting.  
+**Boundary:** Not merged with Eurojust parcel graph.
 
 ---
 
-## Layer A — Alleged command / logistics (at large, Russia-based)
+## Layer A — Alleged command / logistics (at large)
 
-| Name | Nationality / residence | Role in public sources | Legal status (public) | Aliases |
-|------|-------------------------|------------------------|------------------------|---------|
-| **Oemis Romagoza Durruthy** (also spelled Romagoza / Ramagoza) | Cuban; Petrozavodsk, Russia; Russian citizenship reported | Coordinator / logistics handler for EU arson ops (PL, CZ, RO, LT); US indictment: coordinated travel/payments, Prague + Lithuania ops | International wanted (Lithuania); US charged (conspiracy to finance terrorism) | **Dios**, **Adrian**, Roma Martinelli, Zans Adrian, Ismael Zans |
-| **Yuri Khrameev** a/k/a **"Colonel Yuri"** | Russian, 63 | US indictment: former intelligence colonel; high-ranking RIS network member; murder-for-hire conspiracy | Charged US; at large | Colonel Yuri |
-| **Kirill Khrameev** | Russian, 27; FSB officer (indictment) | US indictment: son of Yuri; RIS network member | Charged US; at large | — |
-| **Yaidel Delgado Suarez** a/k/a **"Viking"** | Cuban, 35; Russia | US indictment: prolific recruiter; with Castro recruited US-based person for surveillance/assassination of dissident | Charged US (terrorism finance + murder-for-hire); at large | Viking |
-| **Angel Eduardo Castro** | Venezuelan, 22; Russia | US indictment: recruiter with Suarez for US dissident plot | Charged US (terrorism finance + murder-for-hire); at large | — |
-
-**Edge (US SDNY indictment, unsealed ~15–16 Sep 2026):**  
-`Yuri Khrameev ↔ Kirill Khrameev ↔ Romagoza Durruthy ↔ Delgado Suarez ↔ Castro`  
-as members of the same charged “RIS Network.” Romagoza described as coordinating attacks; Suarez/Castro as recruiters for US-targeted plot.
+| Name | Nationality / residence | Role in public sources | Legal status | Aliases |
+|------|-------------------------|------------------------|--------------|---------|
+| **Oemis Romagoza Durruthy** | Cuban; Petrozavodsk, RU; RU citizenship reported; b. 1991 | EU arson coordinator (PL, CZ, RO, LT); US: travel/payments, Prague + LT ops | LT international wanted; US charged (terrorism finance) | **Dios**, **Adrian**, Roma Martinelli, Zans Adrian, Ismael Zans |
+| **Alexeis Pecora** | Cuban, b. 1991 | LT: sought as organiser with Romagoza for Šiauliai | LT international wanted | — |
+| **Mayra Eukaris De La Lastra Nistal** | Cuban + Spanish, b. 1965 | LT: international wanted with Romagoza and Pecora | LT international wanted; one report: detained Panama 2026 under warrant | — |
+| **Yuri Khrameev** a/k/a **"Colonel Yuri"** | Russian, 63 | US: former intel colonel; RIS network; murder-for-hire | US charged; at large | Colonel Yuri |
+| **Kirill Khrameev** | Russian, 27; FSB officer | US: son of Yuri; RIS network | US charged; at large | — |
+| **Yaidel Delgado Suarez** a/k/a **"Viking"** | Cuban, 35; Russia | US: recruiter for US dissident plot | US charged; at large | Viking |
+| **Angel Eduardo Castro** | Venezuelan, 22; Russia | US: recruiter with Suarez | US charged; at large | — |
 
 ---
 
-## Layer B — Field operatives / recruits (publicly named)
+## Layer B — Šiauliai / TVC Solutions case (in custody in Lithuania)
 
-| Name | Nationality | Acts (public) | Outcome | Link to Romagoza |
-|------|-------------|-----------------|---------|------------------|
-| **Andrés Alfonso de la Hoz de la Cruz** | Colombian, ~26–27 | Prague bus depot arson (Klíčov, June 2024); recorded act; planned further attack; also faces Polish process for similar acts | **Convicted** Prague Municipal Court June 2025: **8 years**, expulsion, damages ~115k CZK; pleaded guilty | Court: instructed via Telegram by person using nickname **Adrian**; promised ~$3,000. US indictment: Associate-1 — Romagoza paid crypto + booked hotels PL/CZ for him |
-| **Luis Alfonso Murillo Diosa** | Colombian; former soldier | Romania: arrested photographing recycling facility; believed signed up thinking Ukraine fight | **Sentenced 6 years** attempted sabotage (DW reporting) | DW: recruited under Romagoza tasking |
+Six defendants referred to Šiauliai Regional Court (Jan 2026); charges: terrorist group, attempted terrorist act, financing. Target: TVC Solutions mobile RF spectrum stations for Ukraine (~€1.5m product; >€4m total property).
 
-**Recruit pool (aggregate, not all named):**  
-DW/partners: ≥12 mostly Spanish-speaking (Colombia, Cuba, Russia-linked); ≥9 caught; 2 convicted at time of Sep 2026 reporting. Recruitment via Telegram + Facebook job groups for Latin Americans / military experience ads (~$1,500 + bonus).
+Attempts: night of **17 Sep 2024** and **22 Sep 2024**.
 
----
+| Initials / name | Citizenship | Public role notes |
+|-----------------|-------------|-------------------|
+| **J. L. A.** | Spanish | Alleged on-site arson attempt (with A.F.R.D.); brought materials; aborted when passers-by appeared |
+| **A. F. R. D.** | Dual Spanish–Colombian | Same on-site attempt |
+| **E. O. V.** | Russian | Defendant in custody |
+| **Y. L. C.** | Cuban (female) | Defendant in custody |
+| **C. A. L. D. = Carlos Alberto Legarda Devia** | Colombian | Detained Spain; extradited to LT May 2025; LRT: suspected group organiser / intermediary-financing functions |
+| **M. B.** | Belarusian | Defendant in custody |
 
-## Layer C — Targets assigned in public narrative (2024, ~May–Sep)
+All six under detention in Lithuania. Case heard closed (commercial/service secrecy; possible anonymous witnesses). First defendant questioned May 2026 — admitted guilt (LRT).
 
-| Country | Target type | Notes |
-|---------|-------------|--------|
-| **Poland** | Two construction-supply businesses | Arson |
-| **Czech Republic** | Prague public transport bus depot (Klíčov) | Arson — de la Hoz conviction |
-| **Romania** | Recycling facility | Photo/recon then sabotage path; Murillo Diosa |
-| **Lithuania** | TVC Solutions (Šiauliai) — equipment for Ukraine (radio-signal detection trailers) | Attempted arson; Lithuanian case → 6 charged Jan 2026 terrorism-related; Romagoza on international wanted list |
-
-Lithuanian prosecutors: only authority to **publicly attribute** the series to **GRU** in the DW reporting.
+**Ongoing:** four more suspects — one arrested Colombia (extradition); three international warrants = Romagoza, Pecora, De La Lastra Nistal.
 
 ---
 
-## Graph (simplified)
+## Layer C — Other field operatives (publicly named)
+
+| Name | Nationality | Acts | Outcome | Link |
+|------|-------------|------|---------|------|
+| **Andrés Alfonso de la Hoz de la Cruz** | Colombian | Prague bus depot arson Jun 2024; Polish proceedings | **8 years** Prague Jun 2025 | Court: Telegram **Adrian**; US Associate-1 — Romagoza logistics |
+| **Luis Alfonso Murillo Diosa** | Colombian; ex-soldier | Romania recycling facility (photo/arrest) | **6 years** attempted sabotage | DW: Romagoza tasking |
+
+---
+
+## Graph (updated)
 
 ```
-[ Yuri Khrameev "Colonel Yuri" ]
+[ Yuri Khrameev ]——[ Kirill Khrameev ]
         |
-        +-- [ Kirill Khrameev (FSB) ]
-        |
-        +-- [ Oemis Romagoza Durruthy / Dios / Adrian ]  ←──── logistics EU + Prague/LT
+        +——[ Oemis Romagoza Durruthy / Dios / Adrian ]
                     |
-                    |  Telegram / Facebook job ads
+        +——[ Alexeis Pecora ]  [ Mayra Eukaris De La Lastra Nistal ]
                     |
-        +-----------+-----------+
-        |           |           |
- [de la Hoz]  [Murillo Diosa]  [≥10 other recruits, mostly unnamed in public]
-  Prague 8y     Romania 6y
-        |
-        +-- (Polish proceedings, de la Hoz)
+                    |  Šiauliai cell (in LT custody)
+        +——[ J.L.A. ] [ A.F.R.D. ] [ E.O.V. ] [ Y.L.C. ] [ Carlos Alberto Legarda Devia ] [ M.B. ]
+                    |
+        +——[ de la Hoz ] (Prague 8y)  [ Murillo Diosa ] (Romania 6y)
 
-[ Yaidel Delgado Suarez "Viking" ] + [ Angel Eduardo Castro ]
-        |
-        +-- US Resident-1 (surveillance / $40k kill offer — refused personal kill)
-        +-- alleged Lithuania $25k kill offer (indictment narrative)
+[ Delgado Suarez "Viking" ] + [ Castro ] —— US Resident-1 (surveillance / kill offer)
 ```
 
 ---
 
-## Evidence labels
+## Under-noticed indicators (for further research)
 
-| Edge | Label |
-|------|--------|
-| Romagoza ↔ de la Hoz (Adrian / Associate-1) | CORROBORATED — Czech court (Adrian) + US indictment (Associate-1 / Romagoza logistics) |
-| Romagoza ↔ Murillo Diosa | SECONDARY — DW multi-broadcaster investigation |
-| Romagoza ↔ GRU | INSTITUTIONAL attribution — Lithuanian prosecutors (public) |
-| Five defendants as one RIS Network | PRIMARY — US SDNY indictment |
-| Every EU arson = same cell as Eurojust parcels | **NOT established** — keep graphs separate |
-
----
-
-## UNRESOLVED / next edges
-
-1. Full public list of the six charged in Lithuania (Šiauliai / TVC) and whether all name Romagoza in charging docs.
-2. Names of remaining recruits beyond de la Hoz and Murillo Diosa.
-3. Any primary bridge between **Romagoza graph** and **Eurojust parcel graph** (Gromov / Stabacinskas / Baburov — see companion file).
-4. Identity of CH-001 “G.” relative to this graph — **do not map** without primary edge.
+1. **Mayra Eukaris De La Lastra Nistal** — older (b. 1965), dual Cuban–Spanish, female — atypical “disposable agent” profile; possible logistics/financing node rather than field arsonist. Panama detention report (LRT) needs confirmation of identity match.
+2. **Carlos Alberto Legarda Devia** — publicly framed as intermediary/financing, not only foot soldier; Spain→LT extradition path.
+3. **Alexeis Pecora** — second Cuban organiser alongside Romagoza; little secondary profile yet.
+4. Initials **J.L.A. / A.F.R.D.** still not fully expanded in open English sources — Spanish/Colombian dual identity is the main public marker.
 
 ---
 
 ## Source anchors
 
-- DW + LRT + CT + RTVE investigation (14–16 Sep 2026)
-- US SDNY indictment *United States v. Yuri Khrameev et al.* (unsealed ~15 Sep 2026)
-- Prague Municipal Court judgment reporting (9 Jun 2025) — de la Hoz
-- Lithuanian prosecutor / LRT materials on wanted list and Šiauliai case
-- OCCRP / Meduza / secondary consistent reporting
+- Lithuanian Prosecutor General Office (16 Jan 2026) + LRT/BNS/Delfi
+- DW / LRT investigation (Sep 2026)
+- US SDNY indictment *U.S. v. Khrameev et al.*
+- Prague Municipal Court (de la Hoz, Jun 2025)
 
 ---
 
-*Public names only. Field-layer and command-layer kept distinct. Parcel graph not merged.*
+*Public names only. Parcel graph remains separate.*
