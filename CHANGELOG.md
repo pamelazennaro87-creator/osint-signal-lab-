@@ -2,17 +2,29 @@
 
 ## 2026-10-28
 
-### Laboratory identity elevation
+### Full portfolio identity elevation
 
-Complete rewrite of core laboratory documents to establish a sharper, more distinctive professional posture:
+Complete rewrite and alignment of the evidence-first system:
 
-- **README** — new doctrine section, clearer analytical chain, structured case overview, explicit hard boundaries
-- **PROFILE** — stronger operating standard, signature emphasis on source genealogy / temporal continuity / false-match discipline
-- **PORTFOLIO** — reframed around demonstration of capability under constraint rather than tool familiarity
-- **ETHICS** — elevated from guidelines to hard limits with institutional tone
-- **GLOSSARY** — refined definitions for precision and consistency with laboratory doctrine
+**OSINT Signal Lab**
+- README rebuilt around a six-point Doctrine and explicit analytical chain
+- PROFILE sharpened with signature emphasis on Source Genealogy, Temporal Continuity and False-Match Discipline
+- PORTFOLIO reframed around demonstration of capability under constraint
+- ETHICS elevated from guidelines to hard limits
+- GLOSSARY refined for precision
+- Case Index rewritten with clearer status and methodological note
+- Methods Index added
+- Navigation completed (cases + methods linked from main README)
 
-The laboratory now presents a coherent identity: evidence is tested, not merely collected; unresolved is a valid result; three analytical dimensions (source genealogy, temporal continuity, false-match discipline) are treated as first-class.
+**OSINT Command Center**
+- README fully rewritten and aligned with laboratory doctrine
+- PRODUCT brief updated to the same integrity positioning
+- Differentiator language clarified: Analytical Integrity Layer
+
+**PixelLeak OSINT**
+- README aligned with portfolio doctrine and clearer mechanism focus
+
+The portfolio now presents a coherent professional identity across all three public components: investigations, tooling, and mechanism research.
 
 ---
 
