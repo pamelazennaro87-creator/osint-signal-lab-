@@ -1,39 +1,72 @@
 # Research Ethics & Boundaries
 
-## Public-source only
+This laboratory operates under fixed constraints. These are not guidelines. They are hard limits.
 
-The laboratory works from information lawfully available to the public.
+---
 
-## No protected-identity defeat
+## Public Sources Only
+
+All work is conducted from information lawfully available to the public.  
+No private, privileged, leaked, or unauthorized material is used or claimed.
+
+---
+
+## Attribution Boundary
 
 Deliberate anonymity is treated as an attribution boundary.
 
-The lab does not attempt to identify protected or deliberately anonymized individuals through inference.
+The laboratory does not attempt to identify protected or deliberately anonymized individuals through inference, correlation of sparse public data, or speculative reconstruction.
 
-## No credential or access claims
+Institutional roles, public appointments, and documented trajectories may be examined. Person-level identification across an intentional anonymity barrier is outside scope.
 
-The portfolio does not claim private access, unauthorized access, leaked credentials or privileged systems.
+---
 
-## No operational targeting
+## No Access Claims
 
-Research is framed around public evidence, methodology, historical reconstruction and accountability. It does not provide operational targeting guidance.
+The portfolio does not claim:
 
-## Privacy minimization
+- private system access
+- unauthorized access
+- leaked credentials
+- privileged data sources
+- insider information
 
-Personal data is included only when necessary to establish a documented research claim.
+Any such claim would invalidate the research posture of the laboratory.
 
-Sensitive information should not be collected merely because it is discoverable.
+---
 
-## Responsible uncertainty
+## No Operational Targeting
 
-If evidence does not establish a claim, the correct output is:
+Research is framed around public evidence, methodology, historical reconstruction, institutional analysis, and accountability.  
+It does not provide operational targeting guidance, vulnerability exploitation advice, or actionable attack paths.
+
+---
+
+## Privacy Minimization
+
+Personal data is included only when necessary to establish a documented research claim.  
+Discoverability does not equal legitimacy of use. Sensitive information is not collected simply because it can be found.
+
+---
+
+## Responsible Uncertainty
+
+If the available evidence does not establish a claim, the correct output is:
 
 **UNRESOLVED.**
 
-## Correction policy
+Filling gaps with narrative, probability language that exceeds the evidence, or untested inference is treated as analytical failure.
 
-If a source is corrected, withdrawn or contradicted, the case should record the change rather than silently rewriting history.
+---
 
-## Core rule
+## Correction Policy
 
-> **Public availability does not automatically make every use of information appropriate.**
+When a source is corrected, withdrawn, contradicted, or later shown to be unreliable, the case record is updated to reflect the change. History is not silently rewritten.
+
+---
+
+## Core Rule
+
+> Public availability does not automatically make every use of information appropriate.
+
+The laboratory prioritizes evidentiary discipline over completeness of coverage.
