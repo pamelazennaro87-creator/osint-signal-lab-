@@ -1,40 +1,64 @@
 # Case Index
 
-| Case | Domain | Primary method | Status |
-|---|---|---|---|
-| 001 | Intelligence / institutional OSINT | Attribution boundary + capability archaeology | Active |
-| 001-A | AI / intelligence | Project identity testing | Active |
-| 002 | Maritime / sanctions | Entity continuity + source comparison | Active |
-| 003 | Digital human trafficking | Recruitment-pattern analysis + evidence-gap mapping | Active |
-| 004 | Covert recruitment / disposable agents | Recruitment-chain attribution + vulnerability analysis | Active |
-| 005 | RIS Network (US–EU bridge) | Indictment-centred edge testing + controlled merge | Active |
-| **006** | **Critical logistics & dual-use infrastructure** | **Target-surface taxonomy + event cards** | **Active** |
+Cases are deliberately heterogeneous.  
+The objective is to demonstrate that the same evidence discipline transfers across domains without collapsing into narrative convenience.
 
-## 2026-10 integration notes
+A case is considered methodologically complete only when the evidence boundary is explicit and unresolved elements remain unresolved.
 
-- **001 / 8200:** EU jurisdictional seam (Azure NL/IE), Microsoft–alumni friction, command continuity, Arabic LLM layer.
-- **002 / BERILL:** Ownership/management, sanctions CH+CA, AIS continuity.
-- **004 / Disposable agents:** MASTER public names, Šiauliai full roster, Eurojust parcel graph separate, Mayra Panama tracking.
-- **005 / RIS Network:** SDNY *Khrameev et al.*; Resident-1 / Victim-1 / Victim-2 deep-dive (labels only); Associate-1 bridge.
-- **006 / Critical logistics:** Target-surface case — courier hubs, dual-use plants, urban transport, energy-talk; person graphs referenced not re-owned.
-- **PixelLeak:** Glow Labs primary disclosure in `pixelleak-osint-public`.
+---
 
-## Portfolio principle
+## Active Cases
 
-Cases are deliberately heterogeneous.
+| ID | Domain | Core Test | Status |
+|----|--------|-----------|--------|
+| **001** | Intelligence / Institutional | Attribution boundary under deliberate anonymity + capability archaeology | Active |
+| **001-A** | AI / Intelligence projects | Project identity testing without direct primary link | Active |
+| **002** | Maritime / Sanctions | Entity continuity across name, flag, management and sanctions records | Active |
+| **003** | Digital Trafficking | Recruitment patterns + evidence-gap mapping | Active |
+| **004** | Covert / Disposable Recruitment | Attribution limits between criminal networks and state direction | Active |
+| **005** | Cross-border Network | Indictment-centred edge testing + controlled entity merge | Active |
+| **006** | Critical Logistics Infrastructure | Target-surface taxonomy + exposure pattern analysis | Active |
 
-The objective is to demonstrate that the same evidence discipline can be transferred between:
+---
 
-- intelligence;
-- AI;
-- maritime research;
-- sanctions;
-- public records;
-- human trafficking;
-- covert recruitment;
-- cross-border criminal networks;
-- geospatial research;
-- US charging documents;
-- **critical logistics and dual-use infrastructure as target surface**.
+## Case Summaries
 
-A case is considered complete only when the evidence boundary is explicit.
+### 001 — Unit 8200
+Identity attribution under deliberate anonymity. Tests what professional trajectory can be established from public evidence without crossing the person-level attribution boundary. Includes cross-intelligence mapping of institutional bridges.
+
+### 001-A — Intelligence-LLM / The Studio
+Project identity test. Examines whether two public descriptions can be treated as the same project in the absence of a direct primary link.
+
+### 002 — BERILL / IMO 9311531
+Maritime entity resolution. Tests continuity across vessel names, flags, managers and sanctions records. Includes false-match testing.
+
+### 003 — Digital Trafficking
+Online recruitment into forced labour and digitally controlled exploitation. Focus on false employment offers, passive recruitment, and evidence gaps.
+
+### 004 — Disposable Agents
+Public-source investigation into low-level / one-time operative recruitment. Emphasis on attribution boundaries and the distinction between recruiter, criminal network, and state direction.
+
+### 005 — RIS Network
+Network and edge analysis of a specific recruitment and operational cluster, using public charging documents as the primary anchor.
+
+### 006 — Critical Logistics Infrastructure
+Target-surface taxonomy and exposure patterns in critical logistics and dual-use environments.
+
+---
+
+## Methodological Note
+
+The laboratory does not treat volume of cases as a success metric.  
+Transferability of discipline across domains is the metric.
+
+Each case is expected to expose at least one of the following under stress:
+
+- source independence failure
+- temporal discontinuity
+- false-match risk
+- attribution boundary pressure
+- narrative overreach
+
+---
+
+**Principle:** The conclusion must never be stronger than the evidence that supports it.
