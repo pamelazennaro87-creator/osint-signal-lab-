@@ -1,42 +1,73 @@
 # Research Profile
 
-## Independent OSINT Researcher
+Independent OSINT researcher.
 
-**Focus:** evidence-first public-source research, verification, contradiction analysis and structured intelligence research.
+I do not collect information for its own sake.  
+I test claims against evidence until the claim either survives or collapses.
 
-## Core capabilities
+---
+
+## Focus
+
+Evidence quality. Source genealogy. Controlled attribution. Temporal continuity. Deliberate uncertainty.
+
+The work is designed to be auditable by another researcher. A persuasive narrative that cannot survive source independence testing, temporal scrutiny, or alternative hypotheses is treated as weak, not as insight.
+
+---
+
+## Operating Standard
+
+Every investigation is forced to answer six questions:
+
+1. What do we actually know?
+2. How do we know it?
+3. How independent are the sources?
+4. What contradicts it?
+5. What else could explain the same evidence?
+6. What remains unknown?
+
+**UNRESOLVED is a legitimate and professional outcome.**
+
+---
+
+## Core Capabilities
 
 - Multilingual public-source research
-- Cross-source verification
-- Identity and entity resolution
-- Timeline reconstruction
-- Source genealogy
-- Relationship and affiliation mapping
+- Cross-source verification and independence testing
+- Identity and entity resolution under attribution constraints
+- Timeline reconstruction and temporal continuity analysis
+- Source genealogy (origin and reproduction of claims)
+- Relationship and institutional mapping
 - Maritime and geospatial research
-- Public-record and sanctions research
-- AI-assisted discovery and classification with human verification
-- Analytical writing and evidence reporting
-- Uncertainty and attribution control
+- Sanctions and public-record comparison
+- Contradiction and false-match analysis
+- AI-assisted discovery with mandatory human verification
+- Structured analytical writing and evidence reporting
 
-## Working standard
+---
 
-I do not treat a plausible narrative as a verified finding.
+## Signature Emphasis
 
-Every investigation attempts to answer:
+Three dimensions are treated as first-class analytical tasks rather than optional extras:
 
-**What do we know?  
-How do we know it?  
-How independent are the sources?  
-What contradicts it?  
-What else could explain it?  
-What remains unknown?**
+**Source Genealogy** — tracing where a claim originated and how it was reproduced.  
+**Temporal Continuity** — testing whether an entity, role or relationship remains valid across time.  
+**False-Match Discipline** — actively searching for records that appear compatible but belong to different entities or periods.
+
+Most public OSINT work collapses these three dimensions. This laboratory does not.
+
+---
 
 ## Portfolio
 
-- OSINT Signal Lab — investigations and methodology
-- OSINT Command Center — evidence-first investigation workspace
-- PixelLeak OSINT — AI/data exposure research
+| Component | Function |
+|-----------|----------|
+| **OSINT Signal Lab** | Case architecture, methodology, investigation records |
+| **OSINT Command Center** | Investigation workspace with adversarial pressure and decision integrity gates |
+| **PixelLeak OSINT** | Public evidence of AI-agent data exposure patterns and mechanisms |
 
-## Research principle
+---
 
-> **The conclusion must never be stronger than the evidence supporting it.**
+## Principle
+
+> The conclusion must never be stronger than the evidence that supports it.
