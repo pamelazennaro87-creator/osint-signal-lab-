@@ -1,63 +1,93 @@
-# OSINT Signal Lab — Portfolio
+# Portfolio
 
-## Professional purpose
+**Purpose**
 
-OSINT Signal Lab is an evidence-first research portfolio demonstrating how public-source investigations can be structured, verified, challenged and reproduced.
+This portfolio demonstrates investigative capability under public-source constraints.  
+It is not a display of tools. It is a record of how claims are tested, how uncertainty is preserved, and how conclusions are kept proportionate to evidence.
 
-The portfolio is designed to show **investigative capability**, not merely familiarity with OSINT tools.
+A strong result is not the most dramatic conclusion.  
+It is the conclusion that survives source comparison, temporal testing, false-match scrutiny, alternative hypotheses, provenance review, and explicit limitations.
 
-## Core workflow
+---
 
-**Question → Claims → Sources → Verification → Corroboration → Contradictions → Analysis → Confidence → Limitations**
+## Analytical Chain
 
-Each investigation records what is known, what is reported, what is inferred, what remains unresolved, and what evidence would change the assessment.
+```
+Question → Claims → Sources → Verification → Corroboration → Contradictions → Analysis → Confidence → Limitations
+```
 
-## Capability areas
+Every investigation records:
 
-- Identity and entity resolution
+- what is known
+- what is reported
+- what is inferred
+- what remains unresolved
+- what additional evidence would change the assessment
+
+---
+
+## Capability Areas
+
+- Identity and entity resolution under attribution constraints
 - Source genealogy and independence testing
-- Timeline reconstruction
-- Relationship and network analysis
-- Ownership and management tracing
-- Sanctions and regulatory-source comparison
+- Timeline reconstruction and temporal continuity
+- Relationship and institutional mapping
+- Ownership, management and sanctions tracing
 - Geospatial and maritime research
-- Institutional/capability analysis
-- AI-assisted research with human verification
-- Contradiction and false-match analysis
-- Evidence preservation and reproducibility
+- Contradiction analysis and false-match detection
+- AI-assisted discovery with human verification
+- Evidence preservation and reproducibility standards
 - Responsible uncertainty handling
 
-## Selected work
+---
+
+## Selected Work
 
 ### Case 001 — Unit 8200
 **Identity Attribution Under Deliberate Anonymity**
 
-Tests identity boundaries, source genealogy, institutional mapping, appointment clusters and capability archaeology.
+Tests the boundary between institutional role reconstruction and person-level identification. Includes source genealogy, appointment clustering, career-path fingerprinting, and a cross-intelligence branch that maps institutional bridges while keeping attribution limits explicit.
 
-### Case 001 extension — Intelligence-LLM / The Studio
+### Case 001 Extension — Intelligence-LLM / The Studio
 **Project Identity Test**
 
-Tests whether two public-source descriptions can be treated as the same project without a direct primary link.
+Structured test of whether two public-source descriptions can be treated as the same project in the absence of a direct primary link.
 
 ### Case 002 — BERILL / IMO 9311531
-**Vessel Identity, Name Continuity and Sanctions Trace**
+**Maritime Entity Resolution**
 
-Tests entity continuity across vessel names, flags, managers, sanctions records and changing ownership data.
+Entity continuity across vessel name changes, flag changes, management changes, and sanctions records. Includes false-match testing and temporal identity timeline.
+
+### Case 003 — Digital Trafficking
+**Online Recruitment & Evidence Gaps**
+
+False employment offers, passive recruitment, vulnerability targeting, and digitally managed control. Emphasis on evidence gaps and cross-jurisdiction comparability.
+
+### Case 004 — Disposable Agents
+**Low-Level / One-Time Operative Recruitment**
+
+Public-source investigation into online recruitment of disposable operatives, attribution boundaries, and the distinction between criminal networks and state direction.
 
 ### PixelLeak OSINT
-Separate portfolio project focused on AI-assisted data exposure, public evidence preservation and mechanism analysis.
+**AI-Agent Data Exposure**
 
-## What this portfolio demonstrates
+Separate portfolio line focused on mechanisms by which AI agents expose data via public platforms, with emphasis on fingerprint preservation rather than payload reproduction.
 
-A strong OSINT result is not the most dramatic conclusion.
+---
 
-It is the conclusion that survives:
+## What the Portfolio is Designed to Show
 
-1. source comparison;
-2. temporal testing;
-3. false-match testing;
-4. alternative hypotheses;
-5. provenance review;
-6. explicit uncertainty.
+| Standard | Requirement |
+|----------|-------------|
+| Source independence | Apparent corroboration is tested, not assumed |
+| Temporal integrity | Claims are evaluated inside their time windows |
+| False-match discipline | Compatible-looking records are actively challenged |
+| Alternative hypotheses | Competing explanations are maintained deliberately |
+| Provenance | Origin and reproduction path of claims are traced |
+| Uncertainty | Gaps are recorded rather than filled by narrative |
 
-> **The conclusion must never be stronger than the evidence supporting it.**
+---
+
+## Principle
+
+> The conclusion must never be stronger than the evidence that supports it.
