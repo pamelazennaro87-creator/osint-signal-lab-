@@ -139,6 +139,14 @@ OSINT Signal Lab complements:
 
 Together they form an evidence-first portfolio covering methodology, tooling, investigations, and AI/security research.
 
+## Repository boundaries
+
+This repository is the primary multi-case laboratory for identity resolution, institutional relationships, maritime entity resolution, digital recruitment, and source-dependency analysis.
+
+The similarly named [osint-signal-lab](https://github.com/pamelazennaro87-creator/osint-signal-lab) has a narrower scope: public AI / intelligence capability disclosures, evidence deltas, and the IL-2024-0001 case. The research scopes are distinct; this repository is the main multi-case OSINT portfolio.
+
+For a reusable pre-publication review, see the [Investigation Quality Gate](https://github.com/pamelazennaro87-creator/osint-command-center/blob/main/docs/INVESTIGATION-QUALITY-GATE.md).
+
 ## Research boundary
 
 No private access is claimed.
