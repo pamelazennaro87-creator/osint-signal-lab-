@@ -83,7 +83,7 @@ Case 001 now includes a dedicated cross-intelligence branch mapping institutiona
 - [Institutional Architecture](cases/8200/institutional-architecture.md)
 - [Project Identity Test — Intelligence-LLM ↔ The Studio](cases/8200/cross-intelligence/project-identity-test.md)
 - [Source Delta — Intelligence-LLM ↔ The Studio](cases/8200/cross-intelligence/source-delta-llm-studio.md)
-- [Decision Log DL-2024-0008](cases/8200/decision-log/DL-2024-0008.md)
+- [Decision Log DL-2024-0008](cases/8200/cases/8200/decision-log/DL-2024-0008.md)
 
 ## Case 002 — BERILL / IMO 9311531
 
@@ -95,7 +95,7 @@ A maritime entity-resolution case testing continuity across vessel names, flags,
 - [Source Register](cases/002-berill/sources.md)
 - [Project Identity Test — Intelligence-LLM ↔ The Studio](cases/8200/cross-intelligence/project-identity-test.md)
 - [Source Delta — Intelligence-LLM ↔ The Studio](cases/8200/cross-intelligence/source-delta-llm-studio.md)
-- [Decision Log DL-2024-0008](decision-log/DL-2024-0008.md)
+- [Decision Log DL-2024-0008](cases/8200/decision-log/DL-2024-0008.md)
 
 ## Case 003 — Digital Trafficking
 
