@@ -1,31 +1,43 @@
-# OSINT Signal Lab Glossary
+# Glossary
 
-**Attribution boundary** — the point beyond which available evidence no longer justifies assigning information to a specific person or entity.
+**Attribution boundary**  
+The point beyond which available evidence no longer justifies assigning information to a specific person or entity. Crossing it requires stronger evidence than inference from sparse public data.
 
-**Claim** — a proposition that can be tested against evidence.
+**Claim**  
+A proposition that can be tested against evidence. Claims are provisional until verified.
 
-**Corroboration** — independent evidence supporting a claim.
+**Confidence**  
+An assessment of evidentiary support. It is not personal certainty and is not expressed as a percentage without explicit criteria.
 
-**Evidence delta** — the difference between what the evidence establishes and what a narrative might suggest.
+**Corroboration**  
+Independent evidence supporting a claim. Independence must be demonstrated, not assumed from separate publication.
 
-**False match** — an apparently compatible record belonging to another entity, event or period.
+**Entity continuity**  
+Evidence that different records refer to the same underlying entity across time, names, or contexts.
 
-**Source genealogy** — tracing where a claim originated and how it was reproduced.
+**Evidence delta**  
+The measurable difference between what the evidence actually establishes and what a narrative suggests or implies.
 
-**Temporal continuity** — whether an entity, role or relationship remains valid across a defined time period.
+**False match**  
+An apparently compatible record that belongs to a different entity, event, or time period. Actively tested rather than dismissed.
 
-**Entity continuity** — evidence that records refer to the same underlying entity.
+**Negative space**  
+An evidence gap that limits what can responsibly be concluded. Recorded as a finding, not filled by speculation.
 
-**Attribute continuity** — evidence that a particular property remained associated with that entity at a specific time.
+**Operationalization**  
+The transition from an intended, claimed, or trained capability to documented real-world use.
 
-**Confidence** — an assessment of evidentiary support, not personal certainty.
+**Project identity test**  
+A structured examination of whether two public descriptions refer to the same project or merely to similar projects sharing surface features.
 
-**Negative space** — an evidence gap that limits what can responsibly be concluded.
+**Red-team branch**  
+A deliberately maintained alternative explanation designed to challenge the primary reconstruction. Kept active until falsified or superseded.
 
-**Operationalization** — the transition from an intended or trained capability to documented real-world use.
+**Source genealogy**  
+The process of tracing where a claim originated and how it was reproduced, restated, or amplified across sources.
 
-**Project identity test** — a structured test of whether two descriptions refer to the same project rather than merely similar projects.
+**Source independence**  
+Whether sources that appear to corroborate one another actually derive from separate evidence bases rather than a common origin.
 
-**Source independence** — whether apparent corroborating sources actually derive from separate evidence.
-
-**Red-team branch** — a deliberately maintained alternative explanation designed to challenge the main reconstruction.
+**Temporal continuity**  
+Whether an entity, role, relationship, or status remains valid across a defined time period. Continuity is demonstrated, not assumed from name or title similarity.
