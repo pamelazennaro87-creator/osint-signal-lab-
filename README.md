@@ -1,162 +1,157 @@
 # OSINT Signal Lab
 
-**An evidence-first OSINT laboratory for investigating identities, sources, timelines, contradictions, uncertainty, and AI-driven evidence.**
+**Evidence is not collected. It is tested.**
 
-OSINT Signal Lab is a research portfolio built around one principle:
+> The conclusion must never be stronger than the evidence that supports it.
 
-> **The conclusion must never be stronger than the evidence supporting it.**
+This is a research laboratory for public-source intelligence work.  
+It exists to examine how claims form, how they travel, how they fail, and how analysts become overconfident.
 
-The laboratory studies not only *what* public evidence says, but how evidence changes an investigation, how apparently independent sources can share the same origin, and where human or AI analysis can become overconfident.
+Most open-source work collapses under the same pressures: recycled sources treated as independent, temporal gaps ignored, narrative coherence preferred over evidentiary strength, and AI output accepted as authority. This laboratory is built to resist those failure modes.
 
-## Research model
+---
 
-**Question → Claims → Sources → Verification → Corroboration → Contradictions → Analysis → Confidence → Limitations**
+## Doctrine
 
-Every case separates documented facts, source-derived claims, analytical assessments, unresolved questions, and hypotheses requiring further evidence.
+**1. Evidence before narrative**  
+A coherent story is not evidence of a coherent identity or event.
 
-## Case 001 — Unit 8200
+**2. Independence is proven, never assumed**  
+Two publications repeating the same claim are not two independent sources until their origin is examined.
 
-### Identity Attribution Under Deliberate Anonymity
+**3. Time is a first-class variable**  
+A role, relationship, title or status must be evaluated inside its temporal window. Continuity is demonstrated, not inferred.
 
-The first case examines publicly documented information about an IDF officer designated **H׳** in official material concerning Unit 8200.
+**4. Negative space is evidence**  
+What the public record does not support is recorded with the same discipline as what it does.
 
-The objective is **not** to defeat deliberate anonymity or identify the person through inference.
+**5. AI is a discovery instrument, never a verdict engine**  
+AI may surface leads, structure data, and accelerate comparison. Human verification remains mandatory.
 
-Instead, the investigation asks:
+**6. UNRESOLVED is a professional result**  
+Overconfidence is a greater analytical failure than an explicit evidence gap.
 
-> **What professional trajectory can be established from public evidence without crossing the attribution boundary?**
+---
 
-The case tests role verification, temporal continuity, source genealogy, candidate-space reduction, false-match detection, appointment clustering, and uncertainty handling.
+## Analytical Chain
 
-### Core finding
+```
+Question
+  → Claims
+    → Sources
+      → Verification
+        → Corroboration
+          → Contradictions
+            → Analysis
+              → Confidence
+                → Limitations
+```
 
-Official IDF material documents:
-- an officer designated **Col. H׳** appointed Deputy Commander of Unit 8200 in March 2025; and
-- a **Col. (res.) H׳**, described in January 2025 as a former K. Agam of 8200.
+Every case separates:
 
-These records use the same designation, but the records themselves do **not** establish that they are the same individual.
+| Category | Definition |
+|----------|------------|
+| **Documented fact** | Directly supported by primary or high-quality secondary sources |
+| **Source-derived claim** | Reported by a source, not yet independently verified |
+| **Analytical assessment** | Interpretation that goes beyond the raw record |
+| **Unresolved** | Evidence is insufficient, contradictory, or temporally incomplete |
+| **Hypothesis** | Requires further evidence before it can be treated as anything else |
 
-The laboratory therefore models the connection as an **unresolved continuity hypothesis**, not an identification.
+---
 
-## Portfolio
+## Active Research Lines
 
-- [Professional Research Profile](PROFILE.md)
-- [Portfolio Overview](PORTFOLIO.md)
-- [Case Index](cases/INDEX.md)
-- [Research Ethics & Boundaries](ETHICS.md)
-- [OSINT Glossary](GLOSSARY.md)
-- [Changelog](CHANGELOG.md)
+### Case 001 — Unit 8200
+**Identity Attribution Under Deliberate Anonymity**
+
+Examines what professional trajectory can be established from public evidence without crossing the attribution boundary. Tests role verification, temporal continuity, source genealogy, candidate-space reduction, false-match detection, and institutional mapping. Includes a dedicated cross-intelligence branch.
+
+→ [Case materials](cases/8200/)
+
+### Case 002 — BERILL / IMO 9311531
+**Maritime Entity Resolution**
+
+Tests entity continuity across vessel name changes, flag changes, management changes, and sanctions records.
+
+→ [Case materials](cases/002-berill/)
+
+### Case 003 — Digital Trafficking
+**Online Recruitment & Evidence Gaps**
+
+Focuses on false employment offers, passive recruitment patterns, vulnerability targeting, and digitally managed control.
+
+→ [Case materials](cases/003-digital-trafficking/)
+
+### Case 004 — Disposable Agents
+**Low-Level / One-Time Operative Recruitment**
+
+Public-source investigation into online recruitment of low-level or disposable operatives, attribution limits, and the distinction between criminal networks and state direction.
+
+→ [Case materials](cases/004-disposable-agents/)
+
+### Case 005 — RIS Network
+**Network & Edge Analysis**
+
+Structured examination of a recruitment and operational cluster through edge mapping and deep-dive profiles.
+
+→ [Case materials](cases/005-ris-network/)
+
+### Case 006 — Critical Logistics Infrastructure
+**Exposure Patterns & Target Taxonomy**
+
+Analysis of critical logistics environments and the patterns of exposure that appear in open sources.
+
+→ [Case materials](cases/006-critical-logistics-infrastructure/)
+
+---
 
 ## Methods
 
-- [Case Template](methods/case-template.md)
-- [Source Reliability & Independence](methods/source-reliability.md)
-- [Confidence Model](methods/confidence-model.md)
-- [Alternative Hypotheses & Divergence](methods/alternative-hypotheses.md)
-- [Reproducibility](methods/reproducibility.md)
+| Document | Purpose |
+|----------|---------|
+| [Case Template](methods/case-template.md) | Standard structure for new investigations |
+| [Source Reliability & Independence](methods/source-reliability.md) | Testing whether sources are truly independent |
+| [Confidence Model](methods/confidence-model.md) | Assessing evidentiary support, not personal certainty |
+| [Alternative Hypotheses](methods/alternative-hypotheses.md) | Maintaining deliberate red-team branches |
+| [Reproducibility](methods/reproducibility.md) | Standards for auditability |
 
-- [Methodology](methods/methodology.md)
-- [Case Study](cases/8200/case-study.md)
-- [Timeline](cases/8200/timeline.md)
-- [Public Hierarchy Model](cases/8200/hierarchy.md)
-- [Selection & Training Pathways](cases/8200/selection-pipeline.md)
-- [Appointment Clusters](cases/8200/appointment-clusters.md)
-- [Source Genealogy](cases/8200/source-genealogy.md)
-- [Attribution Boundary](cases/8200/attribution-boundary.md)
-- [False Matches](cases/8200/FALSE_MATCHES.md)
-- [Evidence Register](cases/8200/evidence/sources.md)
+---
 
-## Cross-Intelligence Trace
+## Laboratory Documents
 
-Case 001 now includes a dedicated cross-intelligence branch mapping institutional bridges around 8200 while keeping person-level attribution separate.
+- [Professional Profile](PROFILE.md)
+- [Portfolio Overview](PORTFOLIO.md)
+- [Research Ethics & Boundaries](ETHICS.md)
+- [Glossary](GLOSSARY.md)
+- [Changelog](CHANGELOG.md)
 
-- [Cross-Intelligence Overview](cases/8200/cross-intelligence/README.md)
-- [Institutional Intelligence Bridges](cases/8200/cross-intelligence/institutional-links.md)
-- [Foreign Intelligence Traces](cases/8200/cross-intelligence/foreign-intelligence-traces.md)
-- [Attribution Conflicts](cases/8200/cross-intelligence/attribution-conflicts.md)
-- [Cross-Intelligence Source Register](cases/8200/cross-intelligence/sources.md)
-- [Global Bridge Map](cases/8200/cross-intelligence/global-bridge-map.md)
-- [Infrastructure Bridges](cases/8200/cross-intelligence/infrastructure-bridges.md)
-- [Career-Path Fingerprint](cases/8200/career-path-fingerprint.md)
-- [Mission Evolution](cases/8200/mission-evolution.md)
-- [Succession Map](cases/8200/succession-map.md)
-- [Institutional Architecture](cases/8200/institutional-architecture.md)
-- [Project Identity Test — Intelligence-LLM ↔ The Studio](cases/8200/cross-intelligence/project-identity-test.md)
-- [Source Delta — Intelligence-LLM ↔ The Studio](cases/8200/cross-intelligence/source-delta-llm-studio.md)
-- [Decision Log DL-2024-0008](cases/8200/decision-log/DL-2024-0008.md)
+---
 
-## Case 002 — BERILL / IMO 9311531
+## Portfolio System
 
-A maritime entity-resolution case testing continuity across vessel names, flags, managers and sanctions records.
+This laboratory is one component of a larger evidence-first system:
 
-- [Case Overview](cases/002-berill/README.md)
-- [Temporal Identity Timeline](cases/002-berill/timeline.md)
-- [False-Match Tests](cases/002-berill/false-match-tests.md)
-- [Source Register](cases/002-berill/sources.md)
-- [Project Identity Test — Intelligence-LLM ↔ The Studio](cases/8200/cross-intelligence/project-identity-test.md)
-- [Source Delta — Intelligence-LLM ↔ The Studio](cases/8200/cross-intelligence/source-delta-llm-studio.md)
-- [Decision Log DL-2024-0008](cases/8200/decision-log/DL-2024-0008.md)
+| Component | Role |
+|-----------|------|
+| **OSINT Signal Lab** | Investigations, methodology, case architecture |
+| **OSINT Command Center** | Investigation workspace with adversarial checks and decision gates |
+| **PixelLeak OSINT** | Public evidence of AI-agent data exposure mechanisms |
 
-## Case 003 — Digital Trafficking
+Together they form a coherent research and tooling portfolio focused on analytical discipline rather than volume of collection.
 
-Online recruitment and evidence-gap research focused on false employment offers, passive recruitment, vulnerability targeting, digital control and cross-jurisdiction comparability.
+---
 
-- [Case Overview](cases/003-digital-trafficking/README.md)
+## Hard Boundaries
 
-## Case 004 — Disposable Agents / Online Recruitment
-
-A public-source investigation into online recruitment of low-level or one-time operatives, attribution boundaries, vulnerability claims and the distinction between recruiter, criminal network and state direction.
-
-- [Case Overview](cases/004-disposable-agents/README.md)
-- [Source Register](cases/004-disposable-agents/source-register.md)
-- [Analysis Framework](cases/004-disposable-agents/analysis-framework.md)
-
-## Research principles
-
-### Evidence before narrative
-A coherent story is not evidence of a coherent identity.
-
-### Independence matters
-Two websites repeating the same claim are not automatically two independent sources.
-
-### Time matters
-A role, appointment, title, or relationship must be evaluated in its temporal context.
-
-### Negative space matters
-If public evidence stops supporting an attribution, the gap itself is recorded.
-
-### AI is an assistant, not an authority
-AI may help discover, classify, compare, or structure information. Human verification remains required.
-
-### Preserve uncertainty
-**UNRESOLVED** is a valid research result.
-
-## Portfolio
-
-OSINT Signal Lab complements:
-- **OSINT Command Center** — investigation workspace and analytical tooling
-- **PixelLeak OSINT** — research into AI-assisted data exposure and evidence preservation
-
-Together they form an evidence-first portfolio covering methodology, tooling, investigations, and AI/security research.
-
-## Repository boundaries
-
-This repository is the primary multi-case laboratory for identity resolution, institutional relationships, maritime entity resolution, digital recruitment, and source-dependency analysis.
-
-The similarly named [osint-signal-lab](https://github.com/pamelazennaro87-creator/osint-signal-lab) has a narrower scope: public AI / intelligence capability disclosures, evidence deltas, and the IL-2024-0001 case. The research scopes are distinct; this repository is the main multi-case OSINT portfolio.
-
-For a reusable pre-publication review, see the [Investigation Quality Gate](https://github.com/pamelazennaro87-creator/osint-command-center/blob/main/docs/INVESTIGATION-QUALITY-GATE.md).
-
-## Research boundary
-
-No private access is claimed.
-
-No protected or deliberately anonymized individual is identified through inference.
-
-No conclusion is presented beyond the evidence available in cited public sources.
+- Public sources only
+- No attempt to defeat deliberate anonymity through inference
+- No claims of private, privileged, or unauthorized access
+- No operational targeting guidance
+- Personal data used only when necessary for a documented research claim
+- Corrections and withdrawals are recorded, not silently overwritten
 
 ---
 
 **Status:** Active research laboratory  
-**Case 001:** Unit 8200  
-**Language:** English
+**Language:** English  
+**Principle:** The conclusion must never be stronger than the evidence that supports it.
