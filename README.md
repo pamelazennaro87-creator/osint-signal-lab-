@@ -61,6 +61,8 @@ Every case separates:
 
 ## Active Research Lines
 
+Full index: [cases/INDEX.md](cases/INDEX.md)
+
 ### Case 001 — Unit 8200
 **Identity Attribution Under Deliberate Anonymity**
 
@@ -107,6 +109,8 @@ Analysis of critical logistics environments and the patterns of exposure that ap
 
 ## Methods
 
+Full index: [methods/INDEX.md](methods/INDEX.md)
+
 | Document | Purpose |
 |----------|---------|
 | [Case Template](methods/case-template.md) | Standard structure for new investigations |
@@ -114,6 +118,7 @@ Analysis of critical logistics environments and the patterns of exposure that ap
 | [Confidence Model](methods/confidence-model.md) | Assessing evidentiary support, not personal certainty |
 | [Alternative Hypotheses](methods/alternative-hypotheses.md) | Maintaining deliberate red-team branches |
 | [Reproducibility](methods/reproducibility.md) | Standards for auditability |
+| [Methodology](methods/methodology.md) | Overall research approach |
 
 ---
 
@@ -134,8 +139,8 @@ This laboratory is one component of a larger evidence-first system:
 | Component | Role |
 |-----------|------|
 | **OSINT Signal Lab** | Investigations, methodology, case architecture |
-| **OSINT Command Center** | Investigation workspace with adversarial checks and decision gates |
-| **PixelLeak OSINT** | Public evidence of AI-agent data exposure mechanisms |
+| **[OSINT Command Center](https://github.com/pamelazennaro87-creator/osint-command-center)** | Investigation workspace with adversarial checks and decision gates |
+| **[PixelLeak OSINT](https://github.com/pamelazennaro87-creator/pixelleak-osint-public)** | Public evidence of AI-agent data exposure mechanisms |
 
 Together they form a coherent research and tooling portfolio focused on analytical discipline rather than volume of collection.
 
