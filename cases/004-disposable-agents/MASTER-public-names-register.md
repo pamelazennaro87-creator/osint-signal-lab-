@@ -1,3 +1,5 @@
+> **Review notice — 2026-11-06:** This is a research lead register, not a verified identity dossier. Do not treat co-occurrence, alias similarity, geography, nationality, age, or status labels as proof of identity, affiliation, guilt, or recruitment. Before any public release, minimize personal data: remove dates of birth, precise addresses/localities, contact details, family links and other identifiers unless strictly necessary, already lawfully public, directly sourced, and proportionate to a clearly stated public-interest purpose. For every retained claim, record the exact source, publication date, retrieval date, source genealogy, confidence and a correction/removal path. Distinguish allegation, investigation, charge, conviction and acquittal. Unresolved or weak leads must remain visibly unresolved.
+
 # MASTER Public-Names Register — Ramagoza / Šiauliai / RIS Network
 
 **Updated:** 2026-10-02  
