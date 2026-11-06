@@ -243,3 +243,16 @@ When adding a fragment to Case 004, **always add the source record in the same r
 ## Source genealogy note — apparent convergence
 
 S20 and S21 are **not** treated as corroboration of one another. They concern different proceedings, countries, dates and evidentiary records. A future linkage would require a direct edge such as a shared person, communication, infrastructure, payment, travel record, or judicial document.
+
+
+## Review addendum — 2026-11-06
+
+### Source genealogy and personal-data controls
+- Treat each outlet repeating the same original investigation as derivative reporting, not independent corroboration.
+- Attach every factual claim to the original document and the exact passage/page where possible; record publication and retrieval dates separately.
+- Keep identity matching, recruitment attribution and criminal/legal status as separate claim types.
+- Do not publish full dates of birth, precise locations, contact details, family information or unrelated personal history merely because they are discoverable.
+- A name appearing in a public source is not sufficient to establish that it refers to the person in another record. Require multiple discriminating, source-backed attributes and document plausible alternatives.
+- Use explicit labels: CONFIRMED (directly supported), CORROBORATED (independent sources), CORRELATION, HYPOTHESIS, WEAK LEAD, UNRESOLVED.
+- Review the S4 → S6 numbering gap before release. Do not silently renumber: verify whether S5 was removed and whether any claims still cite it.
+- Public release gate: necessity, proportionality, source quality, currentness, legal status wording, privacy minimization and correction/removal route.
