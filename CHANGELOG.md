@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-11-11 — Case 007 added
+
+- Added a public-source case study on the November 2026 European bomb-threat reports.
+- Added timeline, findings, hypotheses, unknowns, source register, methodology and subcases.
+- Added Case 007 to the case index and linked it from the main repository README.
+- Explicitly withheld personal attribution and state-sponsorship claims not supported by public evidence.
+
+
 ## 2026-10-28
 
 ### Full portfolio identity elevation
