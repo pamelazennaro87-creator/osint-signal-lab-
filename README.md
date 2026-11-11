@@ -63,6 +63,13 @@ Every case separates:
 
 Full index: [cases/INDEX.md](cases/INDEX.md)
 
+### Case 007 — European Bomb Threat Campaign (2026)
+**Cross-border threat emails, infrastructure leads and attribution limits**
+
+Public-source investigation of the November 2026 school and media threat reports across Europe. Separates the reported Andropov alias, the Dayeh University account lead, and unverified links to aviation-related incidents. No individual or state attribution is established.
+
+→ [Case 007 — full investigation](https://github.com/pamelazennaro87-creator/osint-signal-lab-/tree/case/007-european-bomb-threat-campaign-2026/cases/007-european-bomb-threat-campaign-2026/)
+
 ### Case 001 — Unit 8200
 **Identity Attribution Under Deliberate Anonymity**
 
