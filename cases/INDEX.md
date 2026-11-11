@@ -18,6 +18,7 @@ A case is considered methodologically complete only when the evidence boundary i
 | **004** | Covert / Disposable Recruitment | Attribution limits between criminal networks and state direction | Active |
 | **005** | Cross-border Network | Indictment-centred edge testing + controlled entity merge | Active |
 | **006** | Critical Logistics Infrastructure | Target-surface taxonomy + exposure pattern analysis | Active |
+| **007** | European threat campaign | Cross-border bomb-threat reporting, source correlation and attribution limits | Preliminary |
 
 ---
 
@@ -43,6 +44,9 @@ Network and edge analysis of a specific recruitment and operational cluster, usi
 
 ### 006 — Critical Logistics Infrastructure
 Target-surface taxonomy and exposure patterns in critical logistics and dual-use environments.
+
+### 007 — European Bomb Threat Campaign (2026)
+Public-source examination of reported school and media threat emails across Europe, including the reported Andropov signature and Dayeh University account lead. Separates event reporting from technical attribution; identity and common authorship remain unresolved.
 
 ---
 
